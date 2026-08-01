@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066151868460351876",
+    "created_at": "2026-06-15T01:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T02:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066337510004011506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047867480576794624",
+          "start": 0,
+          "username": "yuganbb823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066337510004011506",
+    "in_reply_to_user_id": "2047867480576794624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066224766571450398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuganbb823 耶耶耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066151868460351876",
+        "created_at": "2026-06-15T01:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066337510004011506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047867480576794624",
+              "start": 0,
+              "username": "yuganbb823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066337510004011506",
+        "in_reply_to_user_id": "2047867480576794624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066224766571450398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuganbb823 耶耶耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047867480576794624",
+        "conversation_id": "2066151868460351876",
+        "created_at": "2026-06-14T18:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066224766571450398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "thexiexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066224766571450398",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066151868460351876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx 我在！˶&gt;ᗜ&lt;˶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 453,
+          "like_count": 3274,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2798
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:40:37.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |最好的诡秘@ci_shang85157 | 我有一只小猫@Mikasuda765 | 一个小钰柠@mndfu1s7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "ci_shang85157"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Mikasuda765"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "mndfu1s7"
+              }
+            ]
+          }
+        },
+        "id": "2047867480576794624",
+        "location": "你身后",
+        "name": "为何人生如此凄惨",
+        "pinned_tweet_id": "2066064670331674897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058530430505107456/xZ6M8S5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 210,
+          "like_count": 4132,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 705
+        },
+        "username": "yuganbb823",
+        "verified": false
+      }
+    ]
+  }
+}

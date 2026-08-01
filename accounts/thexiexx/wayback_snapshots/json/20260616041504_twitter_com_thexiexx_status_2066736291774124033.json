@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066720401036881920"
+      ],
+      "media_source_tweet_id": [
+        "2066720413187809565"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066736291774124033",
+    "created_at": "2026-06-16T04:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066736291774124033"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 11,
+          "tag": "神聖かまってちゃん誕生祭"
+        },
+        {
+          "end": 32,
+          "start": 25,
+          "tag": "SKC美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1451606046263414790",
+          "start": 3,
+          "username": "n4a5b"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PCRdiorWPh",
+          "end": 61,
+          "expanded_url": "https://x.com/n4a5b/status/2066720413187809565/photo/1",
+          "media_key": "3_2066720401036881920",
+          "start": 38,
+          "url": "https://t.co/PCRdiorWPh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066736291774124033",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066720413187809565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @n4a5b: #神聖かまってちゃん誕生祭\n#SKC美術部 \n🎉🎉🎉 https://t.co/PCRdiorWPh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066720401036881920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK53QTnbMAAg9Bf.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066720401036881920"
+          ],
+          "media_source_tweet_id": [
+            "2066720413187809565"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066736291774124033",
+        "created_at": "2026-06-16T04:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066736291774124033"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 11,
+              "tag": "神聖かまってちゃん誕生祭"
+            },
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "SKC美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1451606046263414790",
+              "start": 3,
+              "username": "n4a5b"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PCRdiorWPh",
+              "end": 61,
+              "expanded_url": "https://x.com/n4a5b/status/2066720413187809565/photo/1",
+              "media_key": "3_2066720401036881920",
+              "start": 38,
+              "url": "https://t.co/PCRdiorWPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066736291774124033",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066720413187809565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @n4a5b: #神聖かまってちゃん誕生祭\n#SKC美術部 \n🎉🎉🎉 https://t.co/PCRdiorWPh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066720401036881920"
+          ]
+        },
+        "author_id": "1451606046263414790",
+        "conversation_id": "2066720413187809565",
+        "created_at": "2026-06-16T03:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066720413187809565"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "神聖かまってちゃん誕生祭"
+            },
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PCRdiorWPh",
+              "end": 50,
+              "expanded_url": "https://x.com/n4a5b/status/2066720413187809565/photo/1",
+              "media_key": "3_2066720401036881920",
+              "start": 27,
+              "url": "https://t.co/PCRdiorWPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066720413187809565",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 109,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#神聖かまってちゃん誕生祭\n#SKC美術部 \n🎉🎉🎉 https://t.co/PCRdiorWPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 473,
+          "like_count": 3397,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2862
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T17:47:16.000Z",
+        "description": "OC,术力口，SKC浓度较高，其余看心情",
+        "id": "1451606046263414790",
+        "name": "JCSS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771950536973041664/rdE3rSRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 262,
+          "like_count": 1298,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 797
+        },
+        "username": "n4a5b",
+        "verified": false
+      }
+    ]
+  }
+}

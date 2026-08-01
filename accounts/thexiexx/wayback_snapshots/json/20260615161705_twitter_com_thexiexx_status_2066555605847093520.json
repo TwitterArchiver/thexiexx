@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066470419218182395",
+    "created_at": "2026-06-15T16:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066555605847093520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639996371879985157",
+          "start": 0,
+          "username": "SupernovaLLan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066555605847093520",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066555188312412176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SupernovaLLan 嗷嗷嗷嗷哦哦哦哦明白了谢谢解答呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066470419218182395",
+        "created_at": "2026-06-15T16:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066555605847093520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066555605847093520",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066555188312412176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan 嗷嗷嗷嗷哦哦哦哦明白了谢谢解答呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2066470419218182395",
+        "created_at": "2026-06-15T16:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066555188312412176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "thexiexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066555188312412176",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066536283057590293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx 那就有点浪费剂量嘞，右美是那种阶梯式的药效就是说的那个第几高原）一般12t对于标准成人体重已经达到了第二高原的门槛也是最有娱乐效果的一层了，如果体重更轻＜70kg，就算神经不那么敏感也足够起效了，没必要再加量咯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 468,
+          "like_count": 3361,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2849
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 609,
+          "like_count": 26792,
+          "listed_count": 2,
+          "media_count": 1191,
+          "tweet_count": 11092
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

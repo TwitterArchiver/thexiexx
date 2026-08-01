@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2067424113141186696",
+    "created_at": "2026-06-18T04:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067461513947066511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056655773502160896",
+          "start": 0,
+          "username": "simaojie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067461513947066511",
+    "in_reply_to_user_id": "2056655773502160896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067424113141186696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@simaojie 我操这个人恶心死了我之前发的血图他说让他舔舔我真吐了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067424099060854784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLD3Q7CasAAppT3.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067424099060928512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLD3Q7Cb0AAjaeh.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2067424113141186696",
+        "created_at": "2026-06-18T04:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067461513947066511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056655773502160896",
+              "start": 0,
+              "username": "simaojie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067461513947066511",
+        "in_reply_to_user_id": "2056655773502160896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067424113141186696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@simaojie 我操这个人恶心死了我之前发的血图他说让他舔舔我真吐了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067424099060854784",
+            "3_2067424099060928512"
+          ]
+        },
+        "author_id": "2056655773502160896",
+        "conversation_id": "2067424113141186696",
+        "created_at": "2026-06-18T01:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067424113141186696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n79sP7UwvW",
+              "end": 63,
+              "expanded_url": "https://x.com/simaojie/status/2067424113141186696/photo/1",
+              "media_key": "3_2067424099060854784",
+              "start": 40,
+              "url": "https://t.co/n79sP7UwvW"
+            },
+            {
+              "display_url": "pic.x.com/n79sP7UwvW",
+              "end": 63,
+              "expanded_url": "https://x.com/simaojie/status/2067424113141186696/photo/1",
+              "media_key": "3_2067424099060928512",
+              "start": 40,
+              "url": "https://t.co/n79sP7UwvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067424113141186696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 532,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将用最直接最直白最客观最真实最简略最不绕弯子最一针见血的方式告诉你：我没绷住 https://t.co/n79sP7UwvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 486,
+          "like_count": 3513,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 2929
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "05 地雷/量产 你们可以叫我kaki/小卉\n欢迎互fo互转！！\n纯交同类朋友来的不收门槛\n男的别关注别骚扰别评论不收门槛\n男的别关注私信不然我会先问候你全家再拉黑",
+        "id": "2056655773502160896",
+        "location": "不收门槛不接线下男的别关注别骚扰别评论",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 122,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 88
+        },
+        "username": "simaojie",
+        "verified": false
+      }
+    ]
+  }
+}

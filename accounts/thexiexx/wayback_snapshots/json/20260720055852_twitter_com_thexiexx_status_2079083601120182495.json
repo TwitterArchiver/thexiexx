@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078461680045166592"
+      ],
+      "media_source_tweet_id": [
+        "2078461688060542994"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379330",
+          "name": "少女終末旅行"
+        }
+      }
+    ],
+    "conversation_id": "2079083601120182495",
+    "created_at": "2026-07-20T05:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079083601120182495"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 15,
+          "tag": "少女終末旅行"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1327129208695513089",
+          "start": 3,
+          "username": "555Emauma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QxvNWTUxJB",
+          "end": 46,
+          "expanded_url": "https://x.com/555Emauma/status/2078461688060542994/photo/1",
+          "media_key": "3_2078461680045166592",
+          "start": 23,
+          "url": "https://t.co/QxvNWTUxJB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079083601120182495",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 341
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078461688060542994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @555Emauma: #少女終末旅行 https://t.co/QxvNWTUxJB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1299,
+        "media_key": "3_2078461680045166592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgt4sZakAAtzux.jpg",
+        "width": 3247
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078461680045166592"
+          ]
+        },
+        "author_id": "1327129208695513089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          }
+        ],
+        "conversation_id": "2078461688060542994",
+        "created_at": "2026-07-18T12:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078461688060542994"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "少女終末旅行"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QxvNWTUxJB",
+              "end": 31,
+              "expanded_url": "https://x.com/555Emauma/status/2078461688060542994/photo/1",
+              "media_key": "3_2078461680045166592",
+              "start": 8,
+              "url": "https://t.co/QxvNWTUxJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078461688060542994",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 36095,
+          "like_count": 2409,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 341
+        },
+        "reply_settings": "everyone",
+        "text": "#少女終末旅行 https://t.co/QxvNWTUxJB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078461680045166592"
+          ],
+          "media_source_tweet_id": [
+            "2078461688060542994"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          }
+        ],
+        "conversation_id": "2079083601120182495",
+        "created_at": "2026-07-20T05:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079083601120182495"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "少女終末旅行"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1327129208695513089",
+              "start": 3,
+              "username": "555Emauma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QxvNWTUxJB",
+              "end": 46,
+              "expanded_url": "https://x.com/555Emauma/status/2078461688060542994/photo/1",
+              "media_key": "3_2078461680045166592",
+              "start": 23,
+              "url": "https://t.co/QxvNWTUxJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079083601120182495",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 341
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078461688060542994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @555Emauma: #少女終末旅行 https://t.co/QxvNWTUxJB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfKjg3"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 462,
+          "like_count": 3525,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 2960
+        },
+        "url": "https://t.co/PSJUHfKjg3",
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T06:00:43.000Z",
+        "description": "絵をあげていきたい 依頼等はDMかメールにお願いします ➡︎Mail:555emauma@gmail.com",
+        "id": "1327129208695513089",
+        "location": "フォロバ等お気になさらず",
+        "name": "埋",
+        "pinned_tweet_id": "2059472229990363373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667503726691770368/frWkNBUO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7995,
+          "following_count": 318,
+          "like_count": 3350,
+          "listed_count": 109,
+          "media_count": 163,
+          "tweet_count": 1350
+        },
+        "url": "",
+        "username": "555Emauma",
+        "verified": false
+      }
+    ]
+  }
+}

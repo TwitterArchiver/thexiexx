@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2065974442677952920",
+    "created_at": "2026-06-14T01:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065974442677952920"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065974442677952920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "每天看起来人模人样的在学校实则根本不在学考试这几次都是倒数唯一好的是0个人在意每个人都在自己的正轨上我希望永远都这样就像我没存在过一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065974442677952920",
+        "created_at": "2026-06-14T01:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065974442677952920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065974442677952920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "每天看起来人模人样的在学校实则根本不在学考试这几次都是倒数唯一好的是0个人在意每个人都在自己的正轨上我希望永远都这样就像我没存在过一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 484,
+          "like_count": 3205,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 2741
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

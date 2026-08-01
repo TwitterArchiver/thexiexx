@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078849296821276672"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2078849308015878215",
+    "created_at": "2026-07-19T14:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078849308015878215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PDiHxmsGRO",
+          "end": 51,
+          "expanded_url": "https://x.com/thexiexx/status/2078849308015878215/photo/1",
+          "media_key": "3_2078849296821276672",
+          "start": 28,
+          "url": "https://t.co/PDiHxmsGRO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078849308015878215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "傻逼gostban封我整整一个月零一天，现在呢我复活了 https://t.co/PDiHxmsGRO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 663,
+        "media_key": "3_2078849296821276672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmOa9aaUAAaNVG.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078849296821276672"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2078849308015878215",
+        "created_at": "2026-07-19T14:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078849308015878215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PDiHxmsGRO",
+              "end": 51,
+              "expanded_url": "https://x.com/thexiexx/status/2078849308015878215/photo/1",
+              "media_key": "3_2078849296821276672",
+              "start": 28,
+              "url": "https://t.co/PDiHxmsGRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078849308015878215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼gostban封我整整一个月零一天，现在呢我复活了 https://t.co/PDiHxmsGRO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 454,
+          "like_count": 3498,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 2948
+        },
+        "url": "",
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

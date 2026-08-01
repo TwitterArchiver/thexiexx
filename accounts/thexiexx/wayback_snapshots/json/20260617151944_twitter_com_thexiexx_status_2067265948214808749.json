@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2067265948214808749",
+    "created_at": "2026-06-17T15:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067265948214808749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thexiexx/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/thexiexx/status/2065694529953701999",
+          "start": 33,
+          "url": "https://t.co/znCaEAzUQf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067265948214808749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065694529953701999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6.18 晚上九点截止。你不要这个市面价值零元鬼画符就是你亏👁👁 https://t.co/znCaEAzUQf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2067265948214808749",
+        "created_at": "2026-06-17T15:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067265948214808749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thexiexx/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/thexiexx/status/2065694529953701999",
+              "start": 33,
+              "url": "https://t.co/znCaEAzUQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067265948214808749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065694529953701999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6.18 晚上九点截止。你不要这个市面价值零元鬼画符就是你亏👁👁 https://t.co/znCaEAzUQf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065694529953701999",
+        "created_at": "2026-06-13T07:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065694529953701999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thexiexx/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/thexiexx/status/2065385008949588376",
+              "start": 49,
+              "url": "https://t.co/XZtjfApdQN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065694529953701999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1303,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065385008949588376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@所有人 马上300fo了呀抽一个人类画无偿300fogrok开奖🫵\n\n参与条件赞转评谢谢你们😋 https://t.co/XZtjfApdQN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 483,
+          "like_count": 3495,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 2917
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

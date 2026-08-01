@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2054149544427057237",
+    "created_at": "2026-05-12T10:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054149544427057237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2041142473121009664",
+          "start": 3,
+          "username": "Amamikitten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054149544427057237",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5967
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053496711733989833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amamikitten: I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2053496705572540418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH98X7MWEAIU_du.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2054149544427057237",
+        "created_at": "2026-05-12T10:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054149544427057237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041142473121009664",
+              "start": 3,
+              "username": "Amamikitten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054149544427057237",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5967
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053496711733989833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amamikitten: I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053496705572540418"
+          ]
+        },
+        "author_id": "2041142473121009664",
+        "conversation_id": "2053496711733989833",
+        "created_at": "2026-05-10T15:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053496711733989833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LVTCkuNMdc",
+              "end": 304,
+              "expanded_url": "https://x.com/Amamikitten/status/2053496711733989833/photo/1",
+              "media_key": "3_2053496705572540418",
+              "start": 281,
+              "url": "https://t.co/LVTCkuNMdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053496711733989833",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 432,
+          "impression_count": 129136,
+          "like_count": 18228,
+          "quote_count": 45,
+          "reply_count": 24,
+          "retweet_count": 5967
+        },
+        "reply_settings": "everyone",
+        "text": "I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M SO FAT I’M S https://t.co/LVTCkuNMdc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2040111125476573533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 457,
+          "like_count": 3007,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2542
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T13:14:36.000Z",
+        "description": "⠀ \n⠀ ⠀ . ⠀ ⟢ ⠀ 22 , ⠀ ndni ⠀ ˘\n⠀ ♰ ⠀ Rantar͟o͟ ⠀ fict.⠀ ◞ ⠀ Follow ⠀ ≠ ⠀ endorsement 𓈒\n ⠀ #shedtwt ⠀ #venttwt ⠀ #obslovetwt ⠀ ౿\n⠀ ⠀ one ⠀ & ⠀ only、　@slitxris ෆ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 90,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 109,
+                "start": 101,
+                "tag": "venttwt"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "tag": "obslovetwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 157,
+                "start": 148,
+                "username": "slitxris"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovelyamami.⠀",
+                "end": 23,
+                "expanded_url": "http://lovelyamami.xn--6ii/",
+                "start": 0,
+                "url": "https://t.co/mHVR4PWYP3"
+              }
+            ]
+          }
+        },
+        "id": "2041142473121009664",
+        "location": "ᰋ  ˓  bmi 14.4 ⠀not  new ⠀ིྀ",
+        "name": "𓈒 𓏼🍀・　𝓡antaro of #obslovetwt",
+        "pinned_tweet_id": "2049517772338495950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053025524750946306/cwT6_mZp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 220,
+          "like_count": 4749,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/mHVR4PWYP3",
+        "username": "Amamikitten",
+        "verified": false
+      }
+    ]
+  }
+}

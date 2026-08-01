@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2065335256610406784",
+    "created_at": "2026-06-13T07:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065698022999392479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780055196460048385",
+          "start": 0,
+          "username": "Lzg_Althea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065698022999392479",
+    "in_reply_to_user_id": "1780055196460048385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065335256610406784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lzg_Althea 卧槽宝箱开到黄金了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065335249777930240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmLd5EbMAAdLPS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065335256610406784",
+        "created_at": "2026-06-13T07:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065698022999392479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "Lzg_Althea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065698022999392479",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065335256610406784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lzg_Althea 卧槽宝箱开到黄金了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065335249777930240"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2065335256610406784",
+        "created_at": "2026-06-12T07:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065335256610406784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OInfPyxmPP",
+              "end": 41,
+              "expanded_url": "https://x.com/Lzg_Althea/status/2065335256610406784/photo/1",
+              "media_key": "3_2065335249777930240",
+              "start": 18,
+              "url": "https://t.co/OInfPyxmPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065335256610406784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4482,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操我找到之前被家里人没收的普瑞了 https://t.co/OInfPyxmPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2064732261929603385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 480,
+          "like_count": 3120,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 2696
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "1915163759582261466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 282,
+          "like_count": 6543,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1428
+        },
+        "username": "Lzg_Althea",
+        "verified": false
+      }
+    ]
+  }
+}

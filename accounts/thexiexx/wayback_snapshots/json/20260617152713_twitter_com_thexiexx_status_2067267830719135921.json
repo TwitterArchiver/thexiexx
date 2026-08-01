@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2067267830719135921",
+    "created_at": "2026-06-17T15:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067267830719135921"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067267830719135921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还是好害怕期末考试啊脑袋空空学不了一点整天就是坐在这发呆而且我感觉一天内发网上的话比讲的话还要多😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2067267830719135921",
+        "created_at": "2026-06-17T15:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067267830719135921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067267830719135921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是好害怕期末考试啊脑袋空空学不了一点整天就是坐在这发呆而且我感觉一天内发网上的话比讲的话还要多😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 483,
+          "like_count": 3497,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 2918
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

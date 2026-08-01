@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066553384480674159",
+    "created_at": "2026-06-15T16:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066553384480674159"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066553384480674159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈 很烦躁现在 好讨厌学校的一切认真的想毙了全校我操 你们都他妈惨死了老子他妈拿锯子把你们活活分十发暗网图了你们全家锯死你们把石块挂暗网把讨厌的人筋骨皮都扒了剩下活塞绞肉机搅碎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066553384480674159",
+        "created_at": "2026-06-15T16:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066553384480674159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066553384480674159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈 很烦躁现在 好讨厌学校的一切认真的想毙了全校我操 你们都他妈惨死了老子他妈拿锯子把你们活活分十发暗网图了你们全家锯死你们把石块挂暗网把讨厌的人筋骨皮都扒了剩下活塞绞肉机搅碎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 465,
+          "like_count": 3358,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2847
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

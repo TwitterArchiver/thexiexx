@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2053624695656718337"
+      ],
+      "media_source_tweet_id": [
+        "2053624704724881654"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2054051602064162849",
+    "created_at": "2026-05-12T04:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T05:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054051602064162849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "856505382277087232",
+          "start": 3,
+          "username": "naranciagaming"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nXXnJ8BA0X",
+          "end": 73,
+          "expanded_url": "https://x.com/naranciagaming/status/2053624704724881654/photo/1",
+          "media_key": "16_2053624695656718337",
+          "start": 50,
+          "url": "https://t.co/nXXnJ8BA0X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054051602064162849",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1594
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053624704724881654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naranciagaming: this is the greatest gif ever https://t.co/nXXnJ8BA0X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 340,
+        "media_key": "16_2053624695656718337",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HH_wx7aWoAEj6pA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HH_wx7aWoAEj6pA.mp4"
+          }
+        ],
+        "width": 368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2053624695656718337"
+          ],
+          "media_source_tweet_id": [
+            "2053624704724881654"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2054051602064162849",
+        "created_at": "2026-05-12T04:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054051602064162849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "856505382277087232",
+              "start": 3,
+              "username": "naranciagaming"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXXnJ8BA0X",
+              "end": 73,
+              "expanded_url": "https://x.com/naranciagaming/status/2053624704724881654/photo/1",
+              "media_key": "16_2053624695656718337",
+              "start": 50,
+              "url": "https://t.co/nXXnJ8BA0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054051602064162849",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1594
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053624704724881654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naranciagaming: this is the greatest gif ever https://t.co/nXXnJ8BA0X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2053624695656718337"
+          ]
+        },
+        "author_id": "856505382277087232",
+        "conversation_id": "2053624704724881654",
+        "created_at": "2026-05-10T23:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T00:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053624704724881654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXXnJ8BA0X",
+              "end": 53,
+              "expanded_url": "https://x.com/naranciagaming/status/2053624704724881654/photo/1",
+              "media_key": "16_2053624695656718337",
+              "start": 30,
+              "url": "https://t.co/nXXnJ8BA0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053624704724881654",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4460,
+          "impression_count": 227318,
+          "like_count": 17608,
+          "quote_count": 136,
+          "reply_count": 60,
+          "retweet_count": 1594
+        },
+        "reply_settings": "everyone",
+        "text": "this is the greatest gif ever https://t.co/nXXnJ8BA0X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2040111125476573533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 456,
+          "like_count": 2990,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2523
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-24T13:49:31.000Z",
+        "description": "she/her | 22 | need a dispenser here",
+        "id": "856505382277087232",
+        "location": "romania strong 🇷🇴🇷🇴🇷🇴",
+        "name": "narancia gaming",
+        "pinned_tweet_id": "2044304288084627629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757515475473379329/-VZ8j7ui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4393,
+          "following_count": 7144,
+          "like_count": 1528186,
+          "listed_count": 29,
+          "media_count": 8035,
+          "tweet_count": 164621
+        },
+        "username": "naranciagaming",
+        "verified": false
+      }
+    ]
+  }
+}

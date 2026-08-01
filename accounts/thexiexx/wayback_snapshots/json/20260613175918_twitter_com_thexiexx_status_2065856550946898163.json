@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2065855807766560852",
+    "created_at": "2026-06-13T17:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065856550946898163"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065856550946898163",
+    "in_reply_to_user_id": "1954524887454011392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065855807766560852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "把小号设私密了转帖看不到所以再发一遍呃呃呃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065855807766560852",
+        "created_at": "2026-06-13T17:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065856550946898163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065856550946898163",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065855807766560852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "把小号设私密了转帖看不到所以再发一遍呃呃呃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065855807766560852",
+        "created_at": "2026-06-13T17:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065855807766560852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 78,
+              "id": "2054583279257583616",
+              "start": 67,
+              "username": "thexiexx3x"
+            },
+            {
+              "end": 100,
+              "id": "1954511704378994688",
+              "start": 89,
+              "username": "lkuaix_xie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065855807766560852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＝蝎些\nshe/her\nsh｜药｜烟酒｜画画｜精神病｜听电音日摇俄摇｜全性别友好｜爱吃甜品｜同类互fo｜健全人粉红宅男哥傻逼别来\n副本@thexiexx3x \n同人账号兼小号副本@lkuaix_xie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 484,
+          "like_count": 3201,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 2734
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

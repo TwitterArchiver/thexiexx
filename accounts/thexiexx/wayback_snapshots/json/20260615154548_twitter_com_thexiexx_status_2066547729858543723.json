@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066536247364136960"
+      ],
+      "media_source_tweet_id": [
+        "2066536260307681381"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066547729858543723",
+    "created_at": "2026-06-15T15:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066547729858543723"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 31,
+          "tag": "SKC美術部"
+        },
+        {
+          "end": 49,
+          "start": 40,
+          "tag": "の子ちゃん生誕祭"
+        },
+        {
+          "end": 60,
+          "start": 50,
+          "tag": "神聖かまってちゃん"
+        },
+        {
+          "end": 74,
+          "start": 61,
+          "tag": "神聖かまってちゃん生誕祭"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1652115424270774272",
+          "start": 3,
+          "username": "Cco127"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kuqBLIyKpC",
+          "end": 98,
+          "expanded_url": "https://x.com/Cco127/status/2066536260307681381/photo/1",
+          "media_key": "3_2066536247364136960",
+          "start": 75,
+          "url": "https://t.co/kuqBLIyKpC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066547729858543723",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066536260307681381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cco127: 🐼の子ちゃん💕ハッピーバースデー🎉\n\n#SKC美術部 \n#の子ちゃん生誕祭\n#神聖かまってちゃん\n#神聖かまってちゃん生誕祭 https://t.co/kuqBLIyKpC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1497,
+        "media_key": "3_2066536247364136960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3PxJubsAAJoIj.jpg",
+        "width": 1887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066536247364136960"
+          ],
+          "media_source_tweet_id": [
+            "2066536260307681381"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066547729858543723",
+        "created_at": "2026-06-15T15:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066547729858543723"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "SKC美術部"
+            },
+            {
+              "end": 49,
+              "start": 40,
+              "tag": "の子ちゃん生誕祭"
+            },
+            {
+              "end": 60,
+              "start": 50,
+              "tag": "神聖かまってちゃん"
+            },
+            {
+              "end": 74,
+              "start": 61,
+              "tag": "神聖かまってちゃん生誕祭"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1652115424270774272",
+              "start": 3,
+              "username": "Cco127"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kuqBLIyKpC",
+              "end": 98,
+              "expanded_url": "https://x.com/Cco127/status/2066536260307681381/photo/1",
+              "media_key": "3_2066536247364136960",
+              "start": 75,
+              "url": "https://t.co/kuqBLIyKpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066547729858543723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066536260307681381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cco127: 🐼の子ちゃん💕ハッピーバースデー🎉\n\n#SKC美術部 \n#の子ちゃん生誕祭\n#神聖かまってちゃん\n#神聖かまってちゃん生誕祭 https://t.co/kuqBLIyKpC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066536247364136960"
+          ]
+        },
+        "author_id": "1652115424270774272",
+        "conversation_id": "2066536260307681381",
+        "created_at": "2026-06-15T15:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066536260307681381"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "SKC美術部"
+            },
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "の子ちゃん生誕祭"
+            },
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "神聖かまってちゃん"
+            },
+            {
+              "end": 62,
+              "start": 49,
+              "tag": "神聖かまってちゃん生誕祭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kuqBLIyKpC",
+              "end": 86,
+              "expanded_url": "https://x.com/Cco127/status/2066536260307681381/photo/1",
+              "media_key": "3_2066536247364136960",
+              "start": 63,
+              "url": "https://t.co/kuqBLIyKpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066536260307681381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "🐼の子ちゃん💕ハッピーバースデー🎉\n\n#SKC美術部 \n#の子ちゃん生誕祭\n#神聖かまってちゃん\n#神聖かまってちゃん生誕祭 https://t.co/kuqBLIyKpC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 464,
+          "like_count": 3349,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2845
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T01:00:00.000Z",
+        "description": "中国人 17岁 只会中文 其他语言都用的翻译器\nlike：크러쉬/뇽토리/神聖かまってちゃん/\n電波少女｜ADV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/brhRfQum…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/brhRfQumlNaEATtTHJQsrxLNqrK2",
+                "start": 0,
+                "url": "https://t.co/KHgX5VoH5F"
+              }
+            ]
+          }
+        },
+        "id": "1652115424270774272",
+        "location": "幸せが欲しければ  さっさと死んでちょうだいな",
+        "name": "Moco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062158842453270528/nLHeF0GN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 434,
+          "like_count": 19790,
+          "listed_count": 2,
+          "media_count": 1326,
+          "tweet_count": 11501
+        },
+        "url": "https://t.co/KHgX5VoH5F",
+        "username": "Cco127",
+        "verified": false
+      }
+    ]
+  }
+}

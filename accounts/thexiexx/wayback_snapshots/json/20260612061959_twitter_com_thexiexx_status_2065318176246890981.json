@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065318168730771456"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2065318176246890981",
+    "created_at": "2026-06-12T06:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065318176246890981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hoAA6vK5CI",
+          "end": 26,
+          "expanded_url": "https://x.com/thexiexx/status/2065318176246890981/photo/1",
+          "media_key": "3_2065318168730771456",
+          "start": 3,
+          "url": "https://t.co/hoAA6vK5CI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065318176246890981",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "磕了 https://t.co/hoAA6vK5CI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 971,
+        "media_key": "3_2065318168730771456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl77pNboAA04i4.jpg",
+        "width": 437
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065318168730771456"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065318176246890981",
+        "created_at": "2026-06-12T06:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065318176246890981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoAA6vK5CI",
+              "end": 26,
+              "expanded_url": "https://x.com/thexiexx/status/2065318176246890981/photo/1",
+              "media_key": "3_2065318168730771456",
+              "start": 3,
+              "url": "https://t.co/hoAA6vK5CI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065318176246890981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "磕了 https://t.co/hoAA6vK5CI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2064732261929603385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 461,
+          "like_count": 3027,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2628
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

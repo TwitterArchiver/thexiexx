@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066176898259169485",
+    "created_at": "2026-06-15T13:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066516056714485797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1734992918312800257",
+          "start": 0,
+          "username": "xs_sanso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066516056714485797",
+    "in_reply_to_user_id": "1734992918312800257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066176898259169485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xs_sanso 我就这样。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1551,
+        "media_key": "3_2066176881536417792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyI7TsaQAAFzlz.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066176898259169485",
+        "created_at": "2026-06-15T13:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066516056714485797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1734992918312800257",
+              "start": 0,
+              "username": "xs_sanso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066516056714485797",
+        "in_reply_to_user_id": "1734992918312800257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066176898259169485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xs_sanso 我就这样。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066176881536417792"
+          ]
+        },
+        "author_id": "1734992918312800257",
+        "conversation_id": "2066176898259169485",
+        "created_at": "2026-06-14T15:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066176898259169485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJUkw4AQGf",
+              "end": 29,
+              "expanded_url": "https://x.com/xs_sanso/status/2066176898259169485/photo/1",
+              "media_key": "3_2066176881536417792",
+              "start": 6,
+              "url": "https://t.co/VJUkw4AQGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066176898259169485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请输入文本 https://t.co/VJUkw4AQGf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 463,
+          "like_count": 3316,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2827
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T17:45:28.000Z",
+        "description": "努力成为正常人 抑郁+双相+社恐 介意勿近——评论看到都会回  不入门的私信不闲聊  请理解！——互fo需要私信 会查成分\n\n匿名提问箱:https://t.co/IQtQodTr01",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xs_sanso",
+                "end": 92,
+                "expanded_url": "https://ngl.link/xs_sanso",
+                "start": 69,
+                "url": "https://t.co/IQtQodTr01"
+              }
+            ]
+          }
+        },
+        "id": "1734992918312800257",
+        "location": "离你1.14km",
+        "name": "かがみ_鏡",
+        "pinned_tweet_id": "2056801038179647753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056726412321550336/tPgXdH9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 46,
+          "like_count": 1222,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1629
+        },
+        "username": "xs_sanso",
+        "verified": false
+      }
+    ]
+  }
+}

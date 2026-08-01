@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2054392983865434495",
+    "created_at": "2026-05-13T02:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054392983865434495"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054392983865434495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心情依旧死妈 疯了啊 今天下午考历史 晚上晚自习从六点五十考到十点考数学和语文，我想死啊尼马"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2054392983865434495",
+        "created_at": "2026-05-13T02:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054392983865434495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054392983865434495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情依旧死妈 疯了啊 今天下午考历史 晚上晚自习从六点五十考到十点考数学和语文，我想死啊尼马"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2040111125476573533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 2564
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

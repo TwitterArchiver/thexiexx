@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2079554272862372284",
+    "created_at": "2026-07-21T13:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079554272862372284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thexiexx3x/sta…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/thexiexx3x/status/2079551540923351258",
+          "start": 60,
+          "url": "https://t.co/NSdCGYhcVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079554272862372284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079551540923351258",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欠人操的东西死傻逼老子说句话就戳你g点了？我不知道你受了啥刺激动不动就举报我死傻逼闲的慌给你找十根热机蹭蹭等被厚乳吧😂 https://t.co/NSdCGYhcVN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079551524167122944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwNF-IagAARQSZ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2079554272862372284",
+        "created_at": "2026-07-21T13:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079554272862372284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thexiexx3x/sta…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/thexiexx3x/status/2079551540923351258",
+              "start": 60,
+              "url": "https://t.co/NSdCGYhcVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079554272862372284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079551540923351258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欠人操的东西死傻逼老子说句话就戳你g点了？我不知道你受了啥刺激动不动就举报我死傻逼闲的慌给你找十根热机蹭蹭等被厚乳吧😂 https://t.co/NSdCGYhcVN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079551524167122944"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2079551540923351258",
+        "created_at": "2026-07-21T12:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079551540923351258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p8wi2hxPU2",
+              "end": 25,
+              "expanded_url": "https://x.com/thexiexx3x/status/2079551540923351258/photo/1",
+              "media_key": "3_2079551524167122944",
+              "start": 2,
+              "url": "https://t.co/p8wi2hxPU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079551540923351258",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/p8wi2hxPU2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n又被gostban了，用@thexiexx3x回复",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "thexiexx3x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfKjg3"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 465,
+          "like_count": 3546,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 2985
+        },
+        "url": "https://t.co/PSJUHfKjg3",
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 201,
+          "like_count": 1333,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1535
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

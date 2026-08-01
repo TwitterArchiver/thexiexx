@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058189169814634496"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2058189302119690566",
+    "created_at": "2026-05-23T14:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058189302119690566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q3aM8VpJ4Y",
+          "end": 34,
+          "expanded_url": "https://x.com/thexiexx/status/2058189302119690566/photo/1",
+          "media_key": "3_2058189169814634496",
+          "start": 11,
+          "url": "https://t.co/Q3aM8VpJ4Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058189302119690566",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "附魔伤害加成200% https://t.co/Q3aM8VpJ4Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058189169814634496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAoJStbgAA6VZk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058189169814634496"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2058189302119690566",
+        "created_at": "2026-05-23T14:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058189302119690566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3aM8VpJ4Y",
+              "end": 34,
+              "expanded_url": "https://x.com/thexiexx/status/2058189302119690566/photo/1",
+              "media_key": "3_2058189169814634496",
+              "start": 11,
+              "url": "https://t.co/Q3aM8VpJ4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058189302119690566",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "附魔伤害加成200% https://t.co/Q3aM8VpJ4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n暂时转世plus版@thexiexx3x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "thexiexx3x"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2040111125476573533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 443,
+          "like_count": 2965,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 2561
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

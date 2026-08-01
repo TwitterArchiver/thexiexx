@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066481984252346368",
+        "3_2066481984252366848"
+      ],
+      "media_source_tweet_id": [
+        "2066482064904650869",
+        "2066482064904650869"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066499405709238504",
+    "created_at": "2026-06-15T12:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T13:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066499405709238504"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 20,
+          "tag": "神聖かまってちゃん誕生祭"
+        },
+        {
+          "end": 42,
+          "start": 35,
+          "tag": "SKC美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2062040859961708544",
+          "start": 3,
+          "username": "Sakuratsuki0u0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XOKgeN3oRN",
+          "end": 86,
+          "expanded_url": "https://x.com/Sakuratsuki0u0/status/2066482064904650869/photo/1",
+          "media_key": "3_2066481984252346368",
+          "start": 63,
+          "url": "https://t.co/XOKgeN3oRN"
+        },
+        {
+          "display_url": "pic.x.com/XOKgeN3oRN",
+          "end": 86,
+          "expanded_url": "https://x.com/Sakuratsuki0u0/status/2066482064904650869/photo/1",
+          "media_key": "3_2066481984252366848",
+          "start": 63,
+          "url": "https://t.co/XOKgeN3oRN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066499405709238504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066482064904650869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakuratsuki0u0: #神聖かまってちゃん誕生祭 \n#SKC美術部 \n誕生日おめでとうの子さん、ありがとう https://t.co/XOKgeN3oRN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066481984252346368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2ean4bAAA1qP0.jpg",
+        "width": 1424
+      },
+      {
+        "height": 814,
+        "media_key": "3_2066481984252366848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2ean4bUAA8qWM.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066481984252346368",
+            "3_2066481984252366848"
+          ],
+          "media_source_tweet_id": [
+            "2066482064904650869",
+            "2066482064904650869"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066499405709238504",
+        "created_at": "2026-06-15T12:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066499405709238504"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 20,
+              "tag": "神聖かまってちゃん誕生祭"
+            },
+            {
+              "end": 42,
+              "start": 35,
+              "tag": "SKC美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2062040859961708544",
+              "start": 3,
+              "username": "Sakuratsuki0u0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOKgeN3oRN",
+              "end": 86,
+              "expanded_url": "https://x.com/Sakuratsuki0u0/status/2066482064904650869/photo/1",
+              "media_key": "3_2066481984252346368",
+              "start": 63,
+              "url": "https://t.co/XOKgeN3oRN"
+            },
+            {
+              "display_url": "pic.x.com/XOKgeN3oRN",
+              "end": 86,
+              "expanded_url": "https://x.com/Sakuratsuki0u0/status/2066482064904650869/photo/1",
+              "media_key": "3_2066481984252366848",
+              "start": 63,
+              "url": "https://t.co/XOKgeN3oRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066499405709238504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066482064904650869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakuratsuki0u0: #神聖かまってちゃん誕生祭 \n#SKC美術部 \n誕生日おめでとうの子さん、ありがとう https://t.co/XOKgeN3oRN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066481984252346368",
+            "3_2066481984252366848"
+          ]
+        },
+        "author_id": "2062040859961708544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066482064904650869",
+        "created_at": "2026-06-15T11:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066482064904650869"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "神聖かまってちゃん誕生祭"
+            },
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOKgeN3oRN",
+              "end": 66,
+              "expanded_url": "https://x.com/Sakuratsuki0u0/status/2066482064904650869/photo/1",
+              "media_key": "3_2066481984252346368",
+              "start": 43,
+              "url": "https://t.co/XOKgeN3oRN"
+            },
+            {
+              "display_url": "pic.x.com/XOKgeN3oRN",
+              "end": 66,
+              "expanded_url": "https://x.com/Sakuratsuki0u0/status/2066482064904650869/photo/1",
+              "media_key": "3_2066481984252366848",
+              "start": 43,
+              "url": "https://t.co/XOKgeN3oRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066482064904650869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 232,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "#神聖かまってちゃん誕生祭 \n#SKC美術部 \n誕生日おめでとうの子さん、ありがとう https://t.co/XOKgeN3oRN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 462,
+          "like_count": 3308,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2823
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T05:18:07.000Z",
+        "description": "僕は@TsukiSakura2004\n名前は月(つき)\n15才 日本語と中国語はOKです",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TsukiSakura2004"
+              }
+            ]
+          }
+        },
+        "id": "2062040859961708544",
+        "location": "月",
+        "name": "月の幽霊月様",
+        "pinned_tweet_id": "2062043777662132673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064346601259421697/CTcs1Pjo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 76,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 190
+        },
+        "username": "Sakuratsuki0u0",
+        "verified": false
+      }
+    ]
+  }
+}

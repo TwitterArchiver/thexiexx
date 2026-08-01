@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2065398156632928721",
+    "created_at": "2026-06-13T06:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065677875303567416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1658130401771110407",
+          "start": 0,
+          "username": "QGsm2EQB5v9645"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065677875303567416",
+    "in_reply_to_user_id": "1658130401771110407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065673839951118417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QGsm2EQB5v9645 操你妈你妈炸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065398156632928721",
+        "created_at": "2026-06-13T06:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065677875303567416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1658130401771110407",
+              "start": 0,
+              "username": "QGsm2EQB5v9645"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065677875303567416",
+        "in_reply_to_user_id": "1658130401771110407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065673839951118417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QGsm2EQB5v9645 操你妈你妈炸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658130401771110407",
+        "conversation_id": "2065398156632928721",
+        "created_at": "2026-06-13T05:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065673839951118417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "thexiexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065673839951118417",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065398156632928721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx 哈哈哈哈哈，确实，老子比你长的tm好看一万倍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2064732261929603385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 476,
+          "like_count": 3098,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 2685
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T15:21:19.000Z",
+        "description": "z z z z",
+        "id": "1658130401771110407",
+        "location": "Amsterdam, Nederland",
+        "name": "111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951747142932144128/W2Qjv-5L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 19,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 112
+        },
+        "username": "QGsm2EQB5v9645",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2065463626065219916",
+    "created_at": "2026-06-12T15:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065463626065219916"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065463626065219916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次他妈的就那几句话，永远重复重复重复说我未来要考公找工作，找不到工作是靠他靠我妈靠我妹。然后还说没有男的要你。说我马上成年了什么现在把房子卖了滚出去\n抱歉我活不了那么久"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065463626065219916",
+        "created_at": "2026-06-12T15:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065463626065219916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065463626065219916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次他妈的就那几句话，永远重复重复重复说我未来要考公找工作，找不到工作是靠他靠我妈靠我妹。然后还说没有男的要你。说我马上成年了什么现在把房子卖了滚出去\n抱歉我活不了那么久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2064732261929603385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 471,
+          "like_count": 3076,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 2668
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

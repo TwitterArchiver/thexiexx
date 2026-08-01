@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2079091447043932631",
+    "created_at": "2026-07-20T06:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079091447043932631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thexiexx/statu…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/thexiexx/status/2079088248899690513",
+          "start": 131,
+          "url": "https://t.co/SdiiVWHP1j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079091447043932631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079088248899690513",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他不是买了一堆鸟吗因为便宜 家里厕所八只鸟四个笼子现在 然后他在厕所放了个监控看到有只鸟跑出笼子了这个人竟然能说出让我外婆去给他把鸟抓回去 然后提了一堆要求要换水喂食干嘛干嘛的 有没有搞错我外婆七十多岁的人了腰也动了手术也不喜欢养动物然后我妈呢不敢说他我就说了 https://t.co/SdiiVWHP1j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2079091447043932631",
+        "created_at": "2026-07-20T06:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079091447043932631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thexiexx/statu…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/thexiexx/status/2079088248899690513",
+              "start": 131,
+              "url": "https://t.co/SdiiVWHP1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079091447043932631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079088248899690513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他不是买了一堆鸟吗因为便宜 家里厕所八只鸟四个笼子现在 然后他在厕所放了个监控看到有只鸟跑出笼子了这个人竟然能说出让我外婆去给他把鸟抓回去 然后提了一堆要求要换水喂食干嘛干嘛的 有没有搞错我外婆七十多岁的人了腰也动了手术也不喜欢养动物然后我妈呢不敢说他我就说了 https://t.co/SdiiVWHP1j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2079087405588775316",
+        "created_at": "2026-07-20T06:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079088248899690513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079088248899690513",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079087405588775316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸什么鬼 在家真当自己皇帝啊 说的话是人说的啊？领导当出瘾了是吧？这里我是一点不想待了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfKjg3"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 463,
+          "like_count": 3528,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 2967
+        },
+        "url": "https://t.co/PSJUHfKjg3",
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

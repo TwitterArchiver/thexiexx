@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079182176302813184"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079182187790999649",
+    "created_at": "2026-07-20T12:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079182187790999649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sXuWhJ269U",
+          "end": 75,
+          "expanded_url": "https://x.com/thexiexx/status/2079182187790999649/photo/1",
+          "media_key": "3_2079182176302813184",
+          "start": 52,
+          "url": "https://t.co/sXuWhJ269U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079182187790999649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在看小黑盒研究有没有好玩的步行模拟器后室类型的 特么的不是太贵就是配置不够死母破烂笔记本我打死你 https://t.co/sXuWhJ269U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079182176302813184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq9LGHaUAAhO3u.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079182176302813184"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079182187790999649",
+        "created_at": "2026-07-20T12:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079182187790999649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXuWhJ269U",
+              "end": 75,
+              "expanded_url": "https://x.com/thexiexx/status/2079182187790999649/photo/1",
+              "media_key": "3_2079182176302813184",
+              "start": 52,
+              "url": "https://t.co/sXuWhJ269U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079182187790999649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在看小黑盒研究有没有好玩的步行模拟器后室类型的 特么的不是太贵就是配置不够死母破烂笔记本我打死你 https://t.co/sXuWhJ269U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfKjg3"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 467,
+          "like_count": 3547,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 2977
+        },
+        "url": "https://t.co/PSJUHfKjg3",
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

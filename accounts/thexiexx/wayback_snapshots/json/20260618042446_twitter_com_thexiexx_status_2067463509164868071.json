@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2067463509164868071",
+    "created_at": "2026-06-18T04:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067463509164868071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《I.D.K.L.》，由 未來電波基地 演唱，收录于《船橋INCIDENT / 717》专辑中，《I.D.K.L.》下载，《I.D.K.L.》在线试听，更多I.D.K.L.相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/9eGUhSB",
+          "end": 46,
+          "expanded_url": "https://163cn.tv/9eGUhSB",
+          "start": 23,
+          "status": 200,
+          "title": "I.D.K.L. - 未來電波基地 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=1824941667&uct2=tr%2FLwoJhIhKisnXP7PrWkw%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.30&sc=wm&tn=",
+          "url": "https://t.co/sdHlzl4YNx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067463509164868071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享未來電波基地的单曲《I.D.K.L.》: https://t.co/sdHlzl4YNx (来自@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2067463509164868071",
+        "created_at": "2026-06-18T04:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067463509164868071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《I.D.K.L.》，由 未來電波基地 演唱，收录于《船橋INCIDENT / 717》专辑中，《I.D.K.L.》下载，《I.D.K.L.》在线试听，更多I.D.K.L.相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/9eGUhSB",
+              "end": 46,
+              "expanded_url": "https://163cn.tv/9eGUhSB",
+              "start": 23,
+              "status": 200,
+              "title": "I.D.K.L. - 未來電波基地 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=1824941667&uct2=tr%2FLwoJhIhKisnXP7PrWkw%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.30&sc=wm&tn=",
+              "url": "https://t.co/sdHlzl4YNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067463509164868071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享未來電波基地的单曲《I.D.K.L.》: https://t.co/sdHlzl4YNx (来自@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 486,
+          "like_count": 3516,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 2932
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2054084612805239251",
+    "created_at": "2026-05-12T06:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054084612805239251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2053366838248259584",
+          "start": 3,
+          "username": "Cassie2meqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054084612805239251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053894641569960164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cassie2meqwq: 互关回家😔\n转这条帖子且关注我抽人送pr（75mg)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2054084612805239251",
+        "created_at": "2026-05-12T06:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054084612805239251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2053366838248259584",
+              "start": 3,
+              "username": "Cassie2meqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054084612805239251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053894641569960164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cassie2meqwq: 互关回家😔\n转这条帖子且关注我抽人送pr（75mg)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2053894641569960164",
+        "created_at": "2026-05-11T17:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053894641569960164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053894641569960164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "互关回家😔\n转这条帖子且关注我抽人送pr（75mg)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2040111125476573533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 457,
+          "like_count": 2997,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2529
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "",
+        "id": "2053366838248259584",
+        "name": "酸性(互关寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 70,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

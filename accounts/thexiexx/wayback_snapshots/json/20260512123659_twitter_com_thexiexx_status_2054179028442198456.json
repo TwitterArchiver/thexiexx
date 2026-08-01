@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054178833952313344"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2054179028442198456",
+    "created_at": "2026-05-12T12:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T13:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054179028442198456"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/juHl8xDTTM",
+          "end": 55,
+          "expanded_url": "https://x.com/thexiexx/status/2054179028442198456/photo/1",
+          "media_key": "3_2054178833952313344",
+          "start": 32,
+          "url": "https://t.co/juHl8xDTTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054179028442198456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "完蛋了孩子们算了一下我还剩点pr就他妈34720mg了大概卧槽 https://t.co/juHl8xDTTM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054178833952313344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHoxBbakAA7HNz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054178833952313344"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2054179028442198456",
+        "created_at": "2026-05-12T12:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054179028442198456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/juHl8xDTTM",
+              "end": 55,
+              "expanded_url": "https://x.com/thexiexx/status/2054179028442198456/photo/1",
+              "media_key": "3_2054178833952313344",
+              "start": 32,
+              "url": "https://t.co/juHl8xDTTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054179028442198456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完蛋了孩子们算了一下我还剩点pr就他妈34720mg了大概卧槽 https://t.co/juHl8xDTTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2040111125476573533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 456,
+          "like_count": 3008,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2544
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

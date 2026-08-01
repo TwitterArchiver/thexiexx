@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2065380589176504719",
+    "created_at": "2026-06-12T10:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065381191612830088"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065381191612830088",
+    "in_reply_to_user_id": "1954524887454011392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065380589176504719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "在教室实在实在受不了了就割了我好害怕家长回去又发现又吵架把我送南脑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065380589176504719",
+        "created_at": "2026-06-12T10:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065381191612830088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065381191612830088",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065380589176504719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "在教室实在实在受不了了就割了我好害怕家长回去又发现又吵架把我送南脑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065380589176504719",
+        "created_at": "2026-06-12T10:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065380589176504719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065380589176504719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我特么好像自杀啊我刚刚遗书已经写好了刚才那个语文我就考15分满分九十数学也是我就考15分全是倒数我不明白为什么我明明每题都认真思考了考的永远都这么狗屎我真的想死了为什么为什么我什么都做不好好想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2064732261929603385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 463,
+          "like_count": 3039,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 2635
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

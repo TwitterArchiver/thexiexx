@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2053853864693248101",
+    "created_at": "2026-05-12T14:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054206001713381628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900120636825231361",
+          "start": 0,
+          "username": "xiaoji0611041"
+        },
+        {
+          "end": 27,
+          "id": "1972886285942730752",
+          "start": 15,
+          "username": "Decadent_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054206001713381628",
+    "in_reply_to_user_id": "1900120636825231361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054188861539119404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoji0611041 @Decadent_11 fo了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2053853864693248101",
+        "created_at": "2026-05-12T14:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054206001713381628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900120636825231361",
+              "start": 0,
+              "username": "xiaoji0611041"
+            },
+            {
+              "end": 27,
+              "id": "1972886285942730752",
+              "start": 15,
+              "username": "Decadent_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054206001713381628",
+        "in_reply_to_user_id": "1900120636825231361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054188861539119404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoji0611041 @Decadent_11 fo了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900120636825231361",
+        "conversation_id": "2053853864693248101",
+        "created_at": "2026-05-12T13:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054188861539119404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "thexiexx"
+            },
+            {
+              "end": 22,
+              "id": "1972886285942730752",
+              "start": 10,
+              "username": "Decadent_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054188861539119404",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053853864693248101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx @Decadent_11 我( ´▽｀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2040111125476573533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 458,
+          "like_count": 3011,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2546
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T09:44:10.000Z",
+        "description": "🚪52r",
+        "id": "1900120636825231361",
+        "name": "（╹◡╹）",
+        "pinned_tweet_id": "2043205125863518556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980935413410721793/8z2uRQls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 82,
+          "like_count": 335,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 874
+        },
+        "username": "xiaoji0611041",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T04:48:52.000Z",
+        "description": "永遠不會幸福的 永遠",
+        "id": "1972886285942730752",
+        "location": "地狱",
+        "name": "☔",
+        "pinned_tweet_id": "2043003174450270667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043003498808381457/I0SfySHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 39,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 401
+        },
+        "username": "Decadent_11",
+        "verified": false
+      }
+    ]
+  }
+}

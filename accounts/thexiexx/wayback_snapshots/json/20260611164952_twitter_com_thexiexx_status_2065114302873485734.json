@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2065114302873485734",
+    "created_at": "2026-06-11T16:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065114302873485734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2047614425012776961",
+          "start": 3,
+          "username": "Melody_0v0_"
+        },
+        {
+          "end": 114,
+          "id": "1293882138387980288",
+          "start": 100,
+          "username": "BhawnaniSamit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065114302873485734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064987573517512742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Melody_0v0_: 疯狂msk抽奖活动！\n一等奖🐱以所有产品任选一个包邮\n二等奖🐱是霜尘购1送1（仅限3颗）或者霜尘1颗\n三等奖🐱是霜尘1颗不包邮\n14号晚上8点开奖，转赞评喵！\n详情见@BhawnaniSamit"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065114302873485734",
+        "created_at": "2026-06-11T16:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065114302873485734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2047614425012776961",
+              "start": 3,
+              "username": "Melody_0v0_"
+            },
+            {
+              "end": 114,
+              "id": "1293882138387980288",
+              "start": 100,
+              "username": "BhawnaniSamit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065114302873485734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064987573517512742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Melody_0v0_: 疯狂msk抽奖活动！\n一等奖🐱以所有产品任选一个包邮\n二等奖🐱是霜尘购1送1（仅限3颗）或者霜尘1颗\n三等奖🐱是霜尘1颗不包邮\n14号晚上8点开奖，转赞评喵！\n详情见@BhawnaniSamit"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047614425012776961",
+        "conversation_id": "2064987573517512742",
+        "created_at": "2026-06-11T08:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064987573517512742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 97,
+              "id": "1293882138387980288",
+              "start": 83,
+              "username": "BhawnaniSamit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064987573517512742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "疯狂msk抽奖活动！\n一等奖🐱以所有产品任选一个包邮\n二等奖🐱是霜尘购1送1（仅限3颗）或者霜尘1颗\n三等奖🐱是霜尘1颗不包邮\n14号晚上8点开奖，转赞评喵！\n详情见@BhawnaniSamit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2064732261929603385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 455,
+          "like_count": 3008,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 2611
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T09:51:52.000Z",
+        "description": "",
+        "id": "2047614425012776961",
+        "name": "痛み♪",
+        "pinned_tweet_id": "2056315867156369630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047619292150239232/cnGphgyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 186,
+          "like_count": 1069,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 585
+        },
+        "username": "Melody_0v0_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-13T12:09:06.000Z",
+        "description": "我是棉二。。【寻回互fo。。】\n聚集猫咪中！\n猫猫猫零食tg： @LIhua1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "LIhua1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/hHWhyREu4r"
+              }
+            ]
+          }
+        },
+        "id": "1293882138387980288",
+        "location": "食堂",
+        "name": "mimi",
+        "pinned_tweet_id": "2064987069051510933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064600847338844160/fOowZd8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 31,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/hHWhyREu4r",
+        "username": "BhawnaniSamit",
+        "verified": false
+      }
+    ]
+  }
+}

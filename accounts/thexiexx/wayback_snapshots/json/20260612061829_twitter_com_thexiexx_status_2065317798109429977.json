@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2065050784040112571",
+    "created_at": "2026-06-12T06:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065317798109429977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1243201577038512129",
+          "start": 0,
+          "username": "fangyuannya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065317798109429977",
+    "in_reply_to_user_id": "1243201577038512129",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065303857128002025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fangyuannya 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065050784040112571",
+        "created_at": "2026-06-12T06:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065317798109429977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1243201577038512129",
+              "start": 0,
+              "username": "fangyuannya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065317798109429977",
+        "in_reply_to_user_id": "1243201577038512129",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065303857128002025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fangyuannya 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243201577038512129",
+        "conversation_id": "2065050784040112571",
+        "created_at": "2026-06-12T05:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065303857128002025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "thexiexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065303857128002025",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065050784040112571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx 我的父母积极给我挂号自己一直不去挂号，但是从生活的各个方面邻居和同事们都能感受到他们不太正常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2064732261929603385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 461,
+          "like_count": 3025,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 2627
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-26T15:42:27.000Z",
+        "description": "MtF, coder, Marxist, Trotskyist, Maoist, frontend coder, political economy & historical society researcher",
+        "id": "1243201577038512129",
+        "location": "America",
+        "name": "Extra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040314010789425152/b4rnFhdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 136,
+          "like_count": 1275,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 232
+        },
+        "username": "fangyuannya",
+        "verified": false
+      }
+    ]
+  }
+}

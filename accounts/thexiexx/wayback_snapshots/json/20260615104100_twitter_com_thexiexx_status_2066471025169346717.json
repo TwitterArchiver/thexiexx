@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066429603133149654",
+    "created_at": "2026-06-15T10:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066471025169346717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965129075846193152",
+          "start": 0,
+          "username": "ukhai15367842"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066471025169346717",
+    "in_reply_to_user_id": "1965129075846193152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066429603133149654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ukhai15367842 咪咪🫳🫳🫳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2066429592152498176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1uxAGa4AAa7fD.jpg",
+        "width": 782
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066429592639057920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1uxB6bMAA0BAd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2066429595478622208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1uxMfbgAAQrPR.jpg",
+        "width": 811
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066429603133149654",
+        "created_at": "2026-06-15T10:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066471025169346717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965129075846193152",
+              "start": 0,
+              "username": "ukhai15367842"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066471025169346717",
+        "in_reply_to_user_id": "1965129075846193152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066429603133149654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ukhai15367842 咪咪🫳🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066429592152498176",
+            "3_2066429592639057920",
+            "3_2066429595478622208"
+          ]
+        },
+        "author_id": "1965129075846193152",
+        "conversation_id": "2066429603133149654",
+        "created_at": "2026-06-15T07:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066429603133149654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rJXHREx0v",
+              "end": 49,
+              "expanded_url": "https://x.com/ukhai15367842/status/2066429603133149654/photo/1",
+              "media_key": "3_2066429592152498176",
+              "start": 26,
+              "url": "https://t.co/9rJXHREx0v"
+            },
+            {
+              "display_url": "pic.x.com/9rJXHREx0v",
+              "end": 49,
+              "expanded_url": "https://x.com/ukhai15367842/status/2066429603133149654/photo/1",
+              "media_key": "3_2066429592639057920",
+              "start": 26,
+              "url": "https://t.co/9rJXHREx0v"
+            },
+            {
+              "display_url": "pic.x.com/9rJXHREx0v",
+              "end": 49,
+              "expanded_url": "https://x.com/ukhai15367842/status/2066429603133149654/photo/1",
+              "media_key": "3_2066429595478622208",
+              "start": 26,
+              "url": "https://t.co/9rJXHREx0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066429603133149654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和小橘子寶寶貼貼呀，，好乖好乖的一隻小貓咪………… https://t.co/9rJXHREx0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 462,
+          "like_count": 3303,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2820
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T19:04:27.000Z",
+        "description": "碎碎念/lesb/紫餐歐弟餐券妹/畫畫oc人/歡迎互fo互轉互繪/匿名提問箱https://t.co/cpMSdyKEVY想被看見想交到好朋友……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhi68399",
+                "end": 61,
+                "expanded_url": "https://ngl.link/zhi68399",
+                "start": 38,
+                "url": "https://t.co/cpMSdyKEVY"
+              }
+            ]
+          }
+        },
+        "id": "1965129075846193152",
+        "location": "🚪28  僅聊天",
+        "name": "滯³",
+        "pinned_tweet_id": "2060018632479084970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053840204767891456/ZbYQ_j1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 70,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 380
+        },
+        "username": "ukhai15367842",
+        "verified": false
+      }
+    ]
+  }
+}

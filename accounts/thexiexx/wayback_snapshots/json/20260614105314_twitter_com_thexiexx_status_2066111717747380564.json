@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066111330655043584"
+      ],
+      "media_source_tweet_id": [
+        "2066111372002476498"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066111717747380564",
+    "created_at": "2026-06-14T10:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066111717747380564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1954511704378994688",
+          "start": 3,
+          "username": "lkuaix_xie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6MnnWt59ch",
+          "end": 75,
+          "expanded_url": "https://x.com/lkuaix_xie/status/2066111372002476498/photo/1",
+          "media_key": "3_2066111330655043584",
+          "start": 52,
+          "url": "https://t.co/6MnnWt59ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066111717747380564",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066111372002476498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lkuaix_xie: 空の色が変わっていく間に\n夢は終わり\nどうしてここに。💟✝️💟✝️💟💫 https://t.co/6MnnWt59ch"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066111330655043584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxNTvoagAAQ3-i.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066111330655043584"
+          ],
+          "media_source_tweet_id": [
+            "2066111372002476498"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066111717747380564",
+        "created_at": "2026-06-14T10:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066111717747380564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1954511704378994688",
+              "start": 3,
+              "username": "lkuaix_xie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MnnWt59ch",
+              "end": 75,
+              "expanded_url": "https://x.com/lkuaix_xie/status/2066111372002476498/photo/1",
+              "media_key": "3_2066111330655043584",
+              "start": 52,
+              "url": "https://t.co/6MnnWt59ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066111717747380564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066111372002476498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lkuaix_xie: 空の色が変わっていく間に\n夢は終わり\nどうしてここに。💟✝️💟✝️💟💫 https://t.co/6MnnWt59ch"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066111330655043584"
+          ]
+        },
+        "author_id": "1954511704378994688",
+        "conversation_id": "2066111372002476498",
+        "created_at": "2026-06-14T10:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066111372002476498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MnnWt59ch",
+              "end": 59,
+              "expanded_url": "https://x.com/lkuaix_xie/status/2066111372002476498/photo/1",
+              "media_key": "3_2066111330655043584",
+              "start": 36,
+              "url": "https://t.co/6MnnWt59ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066111372002476498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "空の色が変わっていく間に\n夢は終わり\nどうしてここに。💟✝️💟✝️💟💫 https://t.co/6MnnWt59ch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 490,
+          "like_count": 3228,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 2763
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T11:54:52.000Z",
+        "description": "🦂🦂🦂",
+        "id": "1954511704378994688",
+        "location": "前置記憶",
+        "name": "Lkuaix_nya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064346742078980096/d5YusB28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 159,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 267
+        },
+        "username": "lkuaix_xie",
+        "verified": false
+      }
+    ]
+  }
+}

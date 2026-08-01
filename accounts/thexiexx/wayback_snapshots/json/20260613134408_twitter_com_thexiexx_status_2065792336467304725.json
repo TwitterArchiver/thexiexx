@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065792320298184705"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2065704922180690383",
+    "created_at": "2026-06-13T13:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065792336467304725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851449112652378112",
+          "start": 0,
+          "username": "yuyuankswl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x97k2RaUpO",
+          "end": 44,
+          "expanded_url": "https://x.com/thexiexx/status/2065792336467304725/photo/1",
+          "media_key": "3_2065792320298184705",
+          "start": 21,
+          "url": "https://t.co/x97k2RaUpO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065792336467304725",
+    "in_reply_to_user_id": "1851449112652378112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065775428217008605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuankswl 宝宝小红书🥹🥹🥹 https://t.co/x97k2RaUpO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 563,
+        "media_key": "3_2065792320298184705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsrK5cacAEfWCd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065792320298184705"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065704922180690383",
+        "created_at": "2026-06-13T13:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065792336467304725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851449112652378112",
+              "start": 0,
+              "username": "yuyuankswl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x97k2RaUpO",
+              "end": 44,
+              "expanded_url": "https://x.com/thexiexx/status/2065792336467304725/photo/1",
+              "media_key": "3_2065792320298184705",
+              "start": 21,
+              "url": "https://t.co/x97k2RaUpO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065792336467304725",
+        "in_reply_to_user_id": "1851449112652378112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065775428217008605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuankswl 宝宝小红书🥹🥹🥹 https://t.co/x97k2RaUpO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851449112652378112",
+        "conversation_id": "2065704922180690383",
+        "created_at": "2026-06-13T12:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065775428217008605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "thexiexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065775428217008605",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065704922180690383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx 卧槽求教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2064732261929603385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 479,
+          "like_count": 3164,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 2710
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T02:20:54.000Z",
+        "description": "哈/滚/乒/直/排/鸢，左右不固定❕杂食，随机支持all向/梦女，爱好冷门拉郎修罗场严重虐角色癖，g向大欢迎",
+        "id": "1851449112652378112",
+        "name": "一般路过同人女🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851451089629167618/5Im4la3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 95,
+          "like_count": 691,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 99
+        },
+        "username": "yuyuankswl",
+        "verified": false
+      }
+    ]
+  }
+}

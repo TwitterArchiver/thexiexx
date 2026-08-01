@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2054256829254025415",
+    "created_at": "2026-05-12T17:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T18:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054256829254025415"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054256829254025415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我晚上回来一定不能吃东西了啊我要疯掉了明天开始我将发布晚上不吃东西的打卡 直到期末考试我就赢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2054256829254025415",
+        "created_at": "2026-05-12T17:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T18:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054256829254025415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054256829254025415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我晚上回来一定不能吃东西了啊我要疯掉了明天开始我将发布晚上不吃东西的打卡 直到期末考试我就赢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2040111125476573533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 462,
+          "like_count": 3021,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2561
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

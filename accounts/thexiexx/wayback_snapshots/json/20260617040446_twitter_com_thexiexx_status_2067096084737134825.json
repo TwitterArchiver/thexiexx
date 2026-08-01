@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2067000703281922292",
+    "created_at": "2026-06-17T04:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067096084737134825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065580384406921216",
+          "start": 0,
+          "username": "tutu0630mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067096084737134825",
+    "in_reply_to_user_id": "2065580384406921216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067000703281922292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tutu0630mi 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2067000690501963776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK92LTPbUAAIA4Q.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2067000703281922292",
+        "created_at": "2026-06-17T04:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067096084737134825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065580384406921216",
+              "start": 0,
+              "username": "tutu0630mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067096084737134825",
+        "in_reply_to_user_id": "2065580384406921216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067000703281922292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tutu0630mi 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067000690501963776"
+          ]
+        },
+        "author_id": "2065580384406921216",
+        "conversation_id": "2067000703281922292",
+        "created_at": "2026-06-16T21:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067000703281922292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTf3gnFUln",
+              "end": 31,
+              "expanded_url": "https://x.com/tutu0630mi/status/2067000703281922292/photo/1",
+              "media_key": "3_2067000690501963776",
+              "start": 8,
+              "url": "https://t.co/mTf3gnFUln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067000703281922292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢我的有福了 https://t.co/mTf3gnFUln"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 480,
+          "like_count": 3444,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2892
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T23:43:46.000Z",
+        "description": "大号@KG6I1x｜你们都来和我互动行不行｜我抗压差，你们不准骂我｜小女孩我无条件回fo呀｜只会小女孩和同类谢谢｜这是我闺蜜@zhheou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "KG6I1x"
+              },
+              {
+                "end": 69,
+                "start": 62,
+                "username": "zhheou"
+              }
+            ]
+          }
+        },
+        "id": "2065580384406921216",
+        "name": "荼蘼花二代目",
+        "pinned_tweet_id": "2066896798388720049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065581328507011072/wYddomwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 49,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 162
+        },
+        "username": "tutu0630mi",
+        "verified": false
+      }
+    ]
+  }
+}

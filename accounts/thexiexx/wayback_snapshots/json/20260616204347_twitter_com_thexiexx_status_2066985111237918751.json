@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066904022922256692",
+    "created_at": "2026-06-16T20:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T21:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066985111237918751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049806570540900352",
+          "start": 0,
+          "username": "AdonMelek0423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066985111237918751",
+    "in_reply_to_user_id": "2049806570540900352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066932277683368443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AdonMelek0423 我也"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066904022922256692",
+        "created_at": "2026-06-16T20:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066985111237918751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049806570540900352",
+              "start": 0,
+              "username": "AdonMelek0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066985111237918751",
+        "in_reply_to_user_id": "2049806570540900352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066932277683368443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AdonMelek0423 我也"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049806570540900352",
+        "conversation_id": "2066904022922256692",
+        "created_at": "2026-06-16T17:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066932277683368443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "thexiexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066932277683368443",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066904022922256692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx 在学校是会这样的，因为不卷真的没事做！一般这种时候我会看点小说或者直接睡觉www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 476,
+          "like_count": 3429,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2885
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T11:02:41.000Z",
+        "description": "来找我聊天然后请我喝奶茶，喝完就天天陪你闲聊然后勾引你当顾客...当然也营业就是了，文媛的话50/1h，这次不喝奶茶这次吃kfc香骨鸡，我可以不喝水干吃一份。",
+        "id": "2049806570540900352",
+        "name": "八云紫今年十七岁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049809912449187840/RhZlOp5K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 14,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 426
+        },
+        "username": "AdonMelek0423",
+        "verified": false
+      }
+    ]
+  }
+}

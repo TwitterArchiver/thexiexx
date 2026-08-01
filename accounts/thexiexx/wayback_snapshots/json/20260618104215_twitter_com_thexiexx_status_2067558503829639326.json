@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067558074664304640",
+        "3_2067558126635851776"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2067558503829639326",
+    "created_at": "2026-06-18T10:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067558503829639326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039398734962761728",
+          "start": 0,
+          "username": "EsterBrown38007"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N6Xf5uZUig",
+          "end": 53,
+          "expanded_url": "https://x.com/thexiexx/status/2067558503829639326/photo/1",
+          "media_key": "3_2067558074664304640",
+          "start": 30,
+          "url": "https://t.co/N6Xf5uZUig"
+        },
+        {
+          "display_url": "pic.x.com/N6Xf5uZUig",
+          "end": 53,
+          "expanded_url": "https://x.com/thexiexx/status/2067558503829639326/photo/1",
+          "media_key": "3_2067558126635851776",
+          "start": 30,
+          "url": "https://t.co/N6Xf5uZUig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067558503829639326",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@EsterBrown38007\n开奖了恭喜获得鬼画符一张 https://t.co/N6Xf5uZUig"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2067558074664304640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFxHVDbQAASfTe.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067558126635851776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFxKWqaIAAYbB4.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067558074664304640",
+            "3_2067558126635851776"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2067558503829639326",
+        "created_at": "2026-06-18T10:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067558503829639326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N6Xf5uZUig",
+              "end": 53,
+              "expanded_url": "https://x.com/thexiexx/status/2067558503829639326/photo/1",
+              "media_key": "3_2067558074664304640",
+              "start": 30,
+              "url": "https://t.co/N6Xf5uZUig"
+            },
+            {
+              "display_url": "pic.x.com/N6Xf5uZUig",
+              "end": 53,
+              "expanded_url": "https://x.com/thexiexx/status/2067558503829639326/photo/1",
+              "media_key": "3_2067558126635851776",
+              "start": 30,
+              "url": "https://t.co/N6Xf5uZUig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067558503829639326",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007\n开奖了恭喜获得鬼画符一张 https://t.co/N6Xf5uZUig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 488,
+          "like_count": 3538,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 2942
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "永遠原諒你的壞",
+        "id": "2039398734962761728",
+        "name": "Rhinestone Eyes",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 212,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 391
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

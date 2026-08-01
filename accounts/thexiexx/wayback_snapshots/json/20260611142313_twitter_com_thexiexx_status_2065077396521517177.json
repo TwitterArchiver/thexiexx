@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2065026751257100409",
+    "created_at": "2026-06-11T14:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065077396521517177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1564990471327215619",
+          "start": 0,
+          "username": "bisco91395061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065077396521517177",
+    "in_reply_to_user_id": "1564990471327215619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065026751257100409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bisco91395061 萌萌萌萌萌萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10455,
+        "height": 1080,
+        "media_key": "13_2065026156366344192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065026156366344192/img/_Ee0PGfdBvN2d0W6.jpg",
+        "public_metrics": {
+          "view_count": 579
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065026156366344192/vid/avc1/360x270/x-j0MLHkF92Oipp5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065026156366344192/vid/avc1/480x360/VYw21WEpLp4DB_qr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065026156366344192/vid/avc1/960x720/r5BFP--Oje-8irGK.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065026156366344192/pl/Fz4792IRpm5ygUp3.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065026751257100409",
+        "created_at": "2026-06-11T14:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065077396521517177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065077396521517177",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065026751257100409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 萌萌萌萌萌萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065026156366344192"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2065026751257100409",
+        "created_at": "2026-06-11T11:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065026751257100409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAISTT50Dy",
+              "end": 53,
+              "expanded_url": "https://x.com/bisco91395061/status/2065026751257100409/video/1",
+              "media_key": "13_2065026156366344192",
+              "start": 30,
+              "url": "https://t.co/KAISTT50Dy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065026751257100409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1538,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个死宅女纯素颜的一段视频。我的头发好干枯啊我去。。。 https://t.co/KAISTT50Dy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2064732261929603385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 448,
+          "like_count": 2985,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 2597
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 216,
+          "like_count": 7604,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1119
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

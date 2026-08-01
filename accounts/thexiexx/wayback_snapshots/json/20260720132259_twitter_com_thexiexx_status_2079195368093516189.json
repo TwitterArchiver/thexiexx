@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079194906875301888",
+        "3_2079194906896302081",
+        "13_2079194906900508672",
+        "3_2079194906908852224"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2079195368093516189",
+    "created_at": "2026-07-20T13:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079195368093516189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ybk3GzO1J",
+          "end": 42,
+          "expanded_url": "https://x.com/thexiexx/status/2079195368093516189/video/1",
+          "media_key": "3_2079194906875301888",
+          "start": 19,
+          "url": "https://t.co/2ybk3GzO1J"
+        },
+        {
+          "display_url": "pic.x.com/2ybk3GzO1J",
+          "end": 42,
+          "expanded_url": "https://x.com/thexiexx/status/2079195368093516189/video/1",
+          "media_key": "3_2079194906896302081",
+          "start": 19,
+          "url": "https://t.co/2ybk3GzO1J"
+        },
+        {
+          "display_url": "pic.x.com/2ybk3GzO1J",
+          "end": 42,
+          "expanded_url": "https://x.com/thexiexx/status/2079195368093516189/video/1",
+          "media_key": "13_2079194906900508672",
+          "start": 19,
+          "url": "https://t.co/2ybk3GzO1J"
+        },
+        {
+          "display_url": "pic.x.com/2ybk3GzO1J",
+          "end": 42,
+          "expanded_url": "https://x.com/thexiexx/status/2079195368093516189/video/1",
+          "media_key": "3_2079194906908852224",
+          "start": 19,
+          "url": "https://t.co/2ybk3GzO1J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079195368093516189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像玩那个假水卧槽我可以搭个帐篷住这里 https://t.co/2ybk3GzO1J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079194906875301888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrIwHMakAAg21Q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079194906896302081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrIwHRbAAEDPYa.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 23975,
+        "height": 1280,
+        "media_key": "13_2079194906900508672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079194906900508672/img/nRzoyeUMbkKVh9AG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079194906900508672/vid/avc1/320x568/pqHfRlfIT0bBKCYd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079194906900508672/vid/avc1/480x852/YU4XsCRwjvb3aiSe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079194906900508672/vid/avc1/720x1280/tiCfOFDCW_5PbHjD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079194906900508672/pl/mE2qG0j7Ct14WAgz.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079194906908852224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrIwHUagAAoSZb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079194906875301888",
+            "3_2079194906896302081",
+            "13_2079194906900508672",
+            "3_2079194906908852224"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2079195368093516189",
+        "created_at": "2026-07-20T13:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079195368093516189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ybk3GzO1J",
+              "end": 42,
+              "expanded_url": "https://x.com/thexiexx/status/2079195368093516189/video/1",
+              "media_key": "3_2079194906875301888",
+              "start": 19,
+              "url": "https://t.co/2ybk3GzO1J"
+            },
+            {
+              "display_url": "pic.x.com/2ybk3GzO1J",
+              "end": 42,
+              "expanded_url": "https://x.com/thexiexx/status/2079195368093516189/video/1",
+              "media_key": "3_2079194906896302081",
+              "start": 19,
+              "url": "https://t.co/2ybk3GzO1J"
+            },
+            {
+              "display_url": "pic.x.com/2ybk3GzO1J",
+              "end": 42,
+              "expanded_url": "https://x.com/thexiexx/status/2079195368093516189/video/1",
+              "media_key": "13_2079194906900508672",
+              "start": 19,
+              "url": "https://t.co/2ybk3GzO1J"
+            },
+            {
+              "display_url": "pic.x.com/2ybk3GzO1J",
+              "end": 42,
+              "expanded_url": "https://x.com/thexiexx/status/2079195368093516189/video/1",
+              "media_key": "3_2079194906908852224",
+              "start": 19,
+              "url": "https://t.co/2ybk3GzO1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079195368093516189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像玩那个假水卧槽我可以搭个帐篷住这里 https://t.co/2ybk3GzO1J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfKjg3"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 467,
+          "like_count": 3544,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 2979
+        },
+        "url": "https://t.co/PSJUHfKjg3",
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066166144277569658",
+    "created_at": "2026-06-14T14:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066166144277569658"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066166144277569658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我还是有点害怕过暑假的因为期末考试注定考不好又是倒数怎么办现在感觉活的好别扭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066166144277569658",
+        "created_at": "2026-06-14T14:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066166144277569658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066166144277569658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我还是有点害怕过暑假的因为期末考试注定考不好又是倒数怎么办现在感觉活的好别扭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 495,
+          "like_count": 3266,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2789
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

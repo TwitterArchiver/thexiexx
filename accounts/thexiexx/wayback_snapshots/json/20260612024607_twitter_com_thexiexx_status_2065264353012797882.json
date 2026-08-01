@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2065050784040112571",
+    "created_at": "2026-06-12T02:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T03:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065264353012797882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052123519060979712",
+          "start": 0,
+          "username": "Lofi_Oraclxzpj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065264353012797882",
+    "in_reply_to_user_id": "2052123519060979712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065174632425193935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lofi_Oraclxzpj 我也是这么想的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065050784040112571",
+        "created_at": "2026-06-12T02:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065264353012797882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052123519060979712",
+              "start": 0,
+              "username": "Lofi_Oraclxzpj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065264353012797882",
+        "in_reply_to_user_id": "2052123519060979712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065174632425193935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lofi_Oraclxzpj 我也是这么想的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052123519060979712",
+        "conversation_id": "2065050784040112571",
+        "created_at": "2026-06-11T20:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T21:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065174632425193935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "thexiexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065174632425193935",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065050784040112571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx 是这样的，只要没确诊就不是，现在的精神医学感觉跟之前欧洲文艺复兴的神学差不多😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2064732261929603385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 458,
+          "like_count": 3012,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 2616
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T20:30:04.000Z",
+        "description": "",
+        "id": "2052123519060979712",
+        "name": "Lofi_Oracle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065194779303084032/Xle32zo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 32,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 174
+        },
+        "username": "Lofi_Oraclxzpj",
+        "verified": false
+      }
+    ]
+  }
+}

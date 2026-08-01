@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2067598528072045001",
+    "created_at": "2026-06-18T13:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067607839083004368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053707183427366912",
+          "start": 0,
+          "username": "meyu_121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067607839083004368",
+    "in_reply_to_user_id": "2053707183427366912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067598528072045001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meyu_121 我下辈子要当日本人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 618,
+        "media_key": "3_2067598525538668544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGV54TakAAPfPe.jpg",
+        "width": 659
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2067598528072045001",
+        "created_at": "2026-06-18T13:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067607839083004368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053707183427366912",
+              "start": 0,
+              "username": "meyu_121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067607839083004368",
+        "in_reply_to_user_id": "2053707183427366912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067598528072045001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meyu_121 我下辈子要当日本人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067598525538668544"
+          ]
+        },
+        "author_id": "2053707183427366912",
+        "conversation_id": "2067598528072045001",
+        "created_at": "2026-06-18T13:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067598528072045001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubfiqEnhCh",
+              "end": 33,
+              "expanded_url": "https://x.com/meyu_121/status/2067598528072045001/photo/1",
+              "media_key": "3_2067598525538668544",
+              "start": 10,
+              "url": "https://t.co/ubfiqEnhCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067598528072045001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我下辈子要当日本人 https://t.co/ubfiqEnhCh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 488,
+          "like_count": 3549,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 2948
+        },
+        "url": "",
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T05:22:11.000Z",
+        "description": "HongKong🇭🇰ㅤ∥ㅤㅤㅤㅤ神聖かまってちゃん 李志 beyondㅤ∥ㅤ愛人 @Gen_ei_SKC0218\nㅤ∥rip @Yume_121_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "Gen_ei_SKC0218"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "Yume_121_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yume121_kawa?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@yume121_kawa?si=Kvl_r-M9N3u6C4DA",
+                "start": 0,
+                "url": "https://t.co/uYCcZZSV0n"
+              }
+            ]
+          }
+        },
+        "id": "2053707183427366912",
+        "location": "まいちゃん全部ゆめ",
+        "name": "Yumeかまってちゃん🎸",
+        "pinned_tweet_id": "2053715766537814126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306748194631680/YoHLf35n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 203,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 452
+        },
+        "url": "https://t.co/uYCcZZSV0n",
+        "username": "meyu_121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066591747178914072",
+    "created_at": "2026-06-15T21:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T22:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066632704922366369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1558757725797986305",
+          "start": 0,
+          "username": "Hemlock_113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066632704922366369",
+    "in_reply_to_user_id": "1558757725797986305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066591747178914072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hemlock_113 好阔耐！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066591741764145152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4CPWebkAA-1NK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066591747178914072",
+        "created_at": "2026-06-15T21:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066632704922366369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1558757725797986305",
+              "start": 0,
+              "username": "Hemlock_113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066632704922366369",
+        "in_reply_to_user_id": "1558757725797986305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066591747178914072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hemlock_113 好阔耐！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066591741764145152"
+          ]
+        },
+        "author_id": "1558757725797986305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2066591747178914072",
+        "created_at": "2026-06-15T18:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066591747178914072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQO9mdhyLe",
+              "end": 81,
+              "expanded_url": "https://x.com/Hemlock_113/status/2066591747178914072/photo/1",
+              "media_key": "3_2066591741764145152",
+              "start": 58,
+              "url": "https://t.co/yQO9mdhyLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066591747178914072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎哟卧槽 这是我画的？？我要哭了 我感觉我再也画不出这样的画了 我真的好久好久没画过了 iPad也坏了 我真的服了 https://t.co/yQO9mdhyLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 468,
+          "like_count": 3374,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2852
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T10:09:46.000Z",
+        "description": "🇭🇰HK 10 单机透明人\nod｜自伤｜碎碎念｜小作文\n严重社交恐惧 低情商 查成分互fo\n接线下纯绿半绿 入门发价格不闲聊",
+        "id": "1558757725797986305",
+        "location": "🚪52/88/188/520",
+        "name": "凝檬_☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052171541077704704/sPryY9_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 149,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 836
+        },
+        "username": "Hemlock_113",
+        "verified": false
+      }
+    ]
+  }
+}

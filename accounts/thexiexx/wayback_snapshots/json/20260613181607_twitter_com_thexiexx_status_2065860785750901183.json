@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065860782617767936"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2065860785750901183",
+    "created_at": "2026-06-13T18:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T19:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065860785750901183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+          "display_url": "infinitetweet.me/account-worth?…",
+          "end": 46,
+          "expanded_url": "https://infinitetweet.me/account-worth?lang=zh",
+          "start": 23,
+          "status": 200,
+          "title": "Account Worth • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/account-worth?lang=zh",
+          "url": "https://t.co/hfUO4B72jf"
+        },
+        {
+          "display_url": "pic.x.com/fqKLsjJN6e",
+          "end": 70,
+          "expanded_url": "https://x.com/thexiexx/status/2065860785750901183/photo/1",
+          "media_key": "3_2065860782617767936",
+          "start": 47,
+          "url": "https://t.co/fqKLsjJN6e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065860785750901183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的推特价值是: ¥1,561.25\n\n➡️ https://t.co/hfUO4B72jf https://t.co/fqKLsjJN6e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2065860782617767936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtpb7dXsAAvzgg.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065860782617767936"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065860785750901183",
+        "created_at": "2026-06-13T18:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065860785750901183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+              "display_url": "infinitetweet.me/account-worth?…",
+              "end": 46,
+              "expanded_url": "https://infinitetweet.me/account-worth?lang=zh",
+              "start": 23,
+              "status": 200,
+              "title": "Account Worth • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/account-worth?lang=zh",
+              "url": "https://t.co/hfUO4B72jf"
+            },
+            {
+              "display_url": "pic.x.com/fqKLsjJN6e",
+              "end": 70,
+              "expanded_url": "https://x.com/thexiexx/status/2065860785750901183/photo/1",
+              "media_key": "3_2065860782617767936",
+              "start": 47,
+              "url": "https://t.co/fqKLsjJN6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065860785750901183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特价值是: ¥1,561.25\n\n➡️ https://t.co/hfUO4B72jf https://t.co/fqKLsjJN6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 484,
+          "like_count": 3206,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 2736
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

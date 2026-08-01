@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2067192853965742476",
+    "created_at": "2026-06-17T10:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067192853965742476"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067192853965742476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "wtf烦死了刚刚上专业课旁边那个人他妈隔几分钟就问我几点了几点了每节课都这样你他妈不能自己带个表吗然后我就说把手表放你那里吧然后然后下课了我他妈才发现手表没还我这个人逼样的不用上晚自习已经跑路了问题是我现在也不知道手表在画室还是给她带走了我操烦死了一会儿还要考试我他妈跳楼吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2067192853965742476",
+        "created_at": "2026-06-17T10:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067192853965742476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067192853965742476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wtf烦死了刚刚上专业课旁边那个人他妈隔几分钟就问我几点了几点了每节课都这样你他妈不能自己带个表吗然后我就说把手表放你那里吧然后然后下课了我他妈才发现手表没还我这个人逼样的不用上晚自习已经跑路了问题是我现在也不知道手表在画室还是给她带走了我操烦死了一会儿还要考试我他妈跳楼吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 481,
+          "like_count": 3472,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2899
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

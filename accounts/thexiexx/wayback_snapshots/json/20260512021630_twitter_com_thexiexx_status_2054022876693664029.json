@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053622060354859008"
+      ],
+      "media_source_tweet_id": [
+        "2053622069087404487"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2054022876693664029",
+    "created_at": "2026-05-12T02:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T03:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054022876693664029"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 19,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1843699066322264064",
+          "start": 3,
+          "username": "kumiyu1114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9z4hJRbWOF",
+          "end": 63,
+          "expanded_url": "https://x.com/kumiyu1114514/status/2053622069087404487/photo/1",
+          "media_key": "3_2053622060354859008",
+          "start": 40,
+          "url": "https://t.co/9z4hJRbWOF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054022876693664029",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 675
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053622069087404487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kumiyu1114514: #NEEDY_GIRL_OVERDOSE https://t.co/9z4hJRbWOF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1388,
+        "media_key": "3_2053622060354859008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_uYiJbcAA9Y0Y.jpg",
+        "width": 1414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053622060354859008"
+          ],
+          "media_source_tweet_id": [
+            "2053622069087404487"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2054022876693664029",
+        "created_at": "2026-05-12T02:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054022876693664029"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 19,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1843699066322264064",
+              "start": 3,
+              "username": "kumiyu1114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9z4hJRbWOF",
+              "end": 63,
+              "expanded_url": "https://x.com/kumiyu1114514/status/2053622069087404487/photo/1",
+              "media_key": "3_2053622060354859008",
+              "start": 40,
+              "url": "https://t.co/9z4hJRbWOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054022876693664029",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 675
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053622069087404487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kumiyu1114514: #NEEDY_GIRL_OVERDOSE https://t.co/9z4hJRbWOF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053622060354859008"
+          ]
+        },
+        "author_id": "1843699066322264064",
+        "conversation_id": "2053622069087404487",
+        "created_at": "2026-05-10T23:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T00:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053622069087404487"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9z4hJRbWOF",
+              "end": 44,
+              "expanded_url": "https://x.com/kumiyu1114514/status/2053622069087404487/photo/1",
+              "media_key": "3_2053622060354859008",
+              "start": 21,
+              "url": "https://t.co/9z4hJRbWOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053622069087404487",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 22621,
+          "like_count": 3396,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 675
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE https://t.co/9z4hJRbWOF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2040111125476573533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 456,
+          "like_count": 2988,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2520
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T17:05:05.000Z",
+        "description": "",
+        "id": "1843699066322264064",
+        "name": "norisakana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843699249940500480/bWlsgR_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 59,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 20
+        },
+        "username": "kumiyu1114514",
+        "verified": false
+      }
+    ]
+  }
+}

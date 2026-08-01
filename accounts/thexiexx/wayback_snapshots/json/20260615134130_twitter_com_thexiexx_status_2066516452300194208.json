@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066505606526341527",
+    "created_at": "2026-06-15T13:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066516452300194208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879125730581450753",
+          "start": 0,
+          "username": "dxmpopper2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066516452300194208",
+    "in_reply_to_user_id": "1879125730581450753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066505606526341527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dxmpopper2006 o到肝脏衰竭死了拉倒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066505594006298624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2z45EaYAARv7f.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066505606526341527",
+        "created_at": "2026-06-15T13:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066516452300194208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879125730581450753",
+              "start": 0,
+              "username": "dxmpopper2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066516452300194208",
+        "in_reply_to_user_id": "1879125730581450753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066505606526341527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dxmpopper2006 o到肝脏衰竭死了拉倒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066505594006298624"
+          ]
+        },
+        "author_id": "1879125730581450753",
+        "conversation_id": "2066505606526341527",
+        "created_at": "2026-06-15T12:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066505606526341527"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "傻逼"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "抖人"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tr5zIceWBQ",
+              "end": 31,
+              "expanded_url": "https://x.com/dxmpopper2006/status/2066505606526341527/photo/1",
+              "media_key": "3_2066505594006298624",
+              "start": 8,
+              "url": "https://t.co/Tr5zIceWBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066505606526341527",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#傻逼 #抖人 https://t.co/Tr5zIceWBQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 464,
+          "like_count": 3320,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2828
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T11:17:50.000Z",
+        "description": "⋆⭒˚ ｡⋆₊ ⊹ ⋆\nhe/him🏳️‍🌈\nEnglish/中文\n我喜欢喝酒 喜欢嗑药欢迎互关\n#drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1879125730581450753",
+        "name": "dex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066508132898226177/6uhT7gE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 10,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 70
+        },
+        "username": "dxmpopper2006",
+        "verified": false
+      }
+    ]
+  }
+}

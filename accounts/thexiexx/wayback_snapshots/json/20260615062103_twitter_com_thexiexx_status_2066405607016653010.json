@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066405607016653010",
+    "created_at": "2026-06-15T06:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T07:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066405607016653010"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066405607016653010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天我不是没上学吗然后今天我前桌就问我你昨天怎么没来呀我说在家然后然后你知道她说啥吗她说 我还以为你哦滴进医院了。我操。我操。好恐怖我心脏突然紧了一下好恐怖我明明没和任何人讲过我课耀的事情，这个人她就是很轻松的语气说的就像一个人在跟你聊天突然说了句我把你妈杀了那种感觉。我操怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066405607016653010",
+        "created_at": "2026-06-15T06:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066405607016653010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066405607016653010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天我不是没上学吗然后今天我前桌就问我你昨天怎么没来呀我说在家然后然后你知道她说啥吗她说 我还以为你哦滴进医院了。我操。我操。好恐怖我心脏突然紧了一下好恐怖我明明没和任何人讲过我课耀的事情，这个人她就是很轻松的语气说的就像一个人在跟你聊天突然说了句我把你妈杀了那种感觉。我操怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 453,
+          "like_count": 3279,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2805
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

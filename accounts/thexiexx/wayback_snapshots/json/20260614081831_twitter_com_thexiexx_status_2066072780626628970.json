@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066056940829184383",
+    "created_at": "2026-06-14T08:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066072780626628970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1968637152989954049",
+          "start": 0,
+          "username": "mazwn123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066072780626628970",
+    "in_reply_to_user_id": "1968637152989954049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066072139581792719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mazwn123 不知道但是吸多了就成瘾了吧 成瘾的话感觉有点恐怖 宝宝注意身体呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066056940829184383",
+        "created_at": "2026-06-14T08:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066072780626628970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1968637152989954049",
+              "start": 0,
+              "username": "mazwn123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066072780626628970",
+        "in_reply_to_user_id": "1968637152989954049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066072139581792719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mazwn123 不知道但是吸多了就成瘾了吧 成瘾的话感觉有点恐怖 宝宝注意身体呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968637152989954049",
+        "conversation_id": "2066056940829184383",
+        "created_at": "2026-06-14T08:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066072139581792719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "thexiexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066072139581792719",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066056940829184383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx 吸烟成瘾是啥感觉...我现在也在吸但是完全🈚瘾..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 489,
+          "like_count": 3212,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 2756
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T11:24:21.000Z",
+        "description": "",
+        "id": "1968637152989954049",
+        "name": "每天都装痛苦b",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065360659848761345/43h9jsK4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "mazwn123",
+        "verified": false
+      }
+    ]
+  }
+}

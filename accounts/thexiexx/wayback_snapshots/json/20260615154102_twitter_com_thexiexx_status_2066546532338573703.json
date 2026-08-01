@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066545804857536512"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066546532338573703",
+    "created_at": "2026-06-15T15:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066546532338573703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C5ayxsfi04",
+          "end": 80,
+          "expanded_url": "https://x.com/thexiexx/status/2066546532338573703/photo/1",
+          "media_key": "3_2066545804857536512",
+          "start": 57,
+          "url": "https://t.co/C5ayxsfi04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066546532338573703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "莫名其妙的第三人称。但是如果那个时候及时去了精神科我是不是不会碰药是不是一切都回归了一个高中生的正轨哪怕是休学了 https://t.co/C5ayxsfi04"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 417,
+        "media_key": "3_2066545804857536512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3YdeKbcAAQu0q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066545804857536512"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066546532338573703",
+        "created_at": "2026-06-15T15:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066546532338573703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5ayxsfi04",
+              "end": 80,
+              "expanded_url": "https://x.com/thexiexx/status/2066546532338573703/photo/1",
+              "media_key": "3_2066545804857536512",
+              "start": 57,
+              "url": "https://t.co/C5ayxsfi04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066546532338573703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "莫名其妙的第三人称。但是如果那个时候及时去了精神科我是不是不会碰药是不是一切都回归了一个高中生的正轨哪怕是休学了 https://t.co/C5ayxsfi04"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 464,
+          "like_count": 3346,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2842
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

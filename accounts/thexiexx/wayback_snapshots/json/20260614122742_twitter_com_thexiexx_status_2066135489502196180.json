@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2066125475840434477",
+    "created_at": "2026-06-14T12:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066135489502196180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1540268150406537216",
+          "start": 0,
+          "username": "aabanypp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066135489502196180",
+    "in_reply_to_user_id": "1540268150406537216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066133820886356447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aabanypp 媳妇🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2066125475840434477",
+        "created_at": "2026-06-14T12:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066135489502196180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540268150406537216",
+              "start": 0,
+              "username": "aabanypp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066135489502196180",
+        "in_reply_to_user_id": "1540268150406537216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066133820886356447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aabanypp 媳妇🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540268150406537216",
+        "conversation_id": "2066125475840434477",
+        "created_at": "2026-06-14T12:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066133820886356447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "thexiexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066133820886356447",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066125475840434477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx 神迹呀！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 491,
+          "like_count": 3239,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 2771
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T09:38:50.000Z",
+        "description": "一个神秘的人。\n想要互fo我会全部回fo！（只看黄的顺男除外）",
+        "id": "1540268150406537216",
+        "name": "睡个好觉吧！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000939898447257606/6w9it0AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 104,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 302
+        },
+        "username": "aabanypp",
+        "verified": false
+      }
+    ]
+  }
+}

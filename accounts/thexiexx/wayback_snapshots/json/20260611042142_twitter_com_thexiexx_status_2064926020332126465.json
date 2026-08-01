@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2064926020332126465",
+    "created_at": "2026-06-11T04:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064926020332126465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thexiexx/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/thexiexx/status/2027371922540122269",
+          "start": 5,
+          "url": "https://t.co/8z2C2MbQjF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064926020332126465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027371922540122269",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好玩爱玩 https://t.co/8z2C2MbQjF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1698,
+        "media_key": "3_2027370800857403392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKrAH0a0AANmHL.jpg",
+        "width": 764
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2027371885974216704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKr_SMbYAAqvJA.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2064926020332126465",
+        "created_at": "2026-06-11T04:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064926020332126465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thexiexx/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/thexiexx/status/2027371922540122269",
+              "start": 5,
+              "url": "https://t.co/8z2C2MbQjF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064926020332126465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027371922540122269",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好玩爱玩 https://t.co/8z2C2MbQjF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027370800857403392",
+            "3_2027371885974216704"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2027371922540122269",
+        "created_at": "2026-02-27T13:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027371922540122269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qH90KYIZd6",
+              "end": 41,
+              "expanded_url": "https://x.com/xiexiefubenXX/status/2027371922540122269/photo/1",
+              "media_key": "3_2027370800857403392",
+              "start": 18,
+              "url": "https://t.co/qH90KYIZd6"
+            },
+            {
+              "display_url": "pic.x.com/qH90KYIZd6",
+              "end": 41,
+              "expanded_url": "https://x.com/xiexiefubenXX/status/2027371922540122269/photo/1",
+              "media_key": "3_2027371885974216704",
+              "start": 18,
+              "url": "https://t.co/qH90KYIZd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027371922540122269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个二臂游戏我他妈从五年级玩到现在 https://t.co/qH90KYIZd6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2064732261929603385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 439,
+          "like_count": 2973,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 2581
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

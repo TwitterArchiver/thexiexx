@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020823295143378944",
+        "3_2020823295290155008"
+      ],
+      "media_source_tweet_id": [
+        "2020823302403744233",
+        "2020823302403744233"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054147123042763041",
+    "created_at": "2026-05-12T10:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054147123042763041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1732356232290222080",
+          "start": 3,
+          "username": "8964_Y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ICMyUaRnCB",
+          "end": 59,
+          "expanded_url": "https://x.com/8964_Y/status/2020823302403744233/photo/1",
+          "media_key": "3_2020823295143378944",
+          "start": 36,
+          "url": "https://t.co/ICMyUaRnCB"
+        },
+        {
+          "display_url": "pic.x.com/ICMyUaRnCB",
+          "end": 59,
+          "expanded_url": "https://x.com/8964_Y/status/2020823302403744233/photo/1",
+          "media_key": "3_2020823295290155008",
+          "start": 36,
+          "url": "https://t.co/ICMyUaRnCB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054147123042763041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020823302403744233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964_Y: od狗眼中的自己     od狗希望遇见的恋人 https://t.co/ICMyUaRnCB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2020823295143378944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtoFITbAAAKTU5.jpg",
+        "width": 1688
+      },
+      {
+        "height": 943,
+        "media_key": "3_2020823295290155008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtoFI2aoAAFpIb.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020823295143378944",
+            "3_2020823295290155008"
+          ],
+          "media_source_tweet_id": [
+            "2020823302403744233",
+            "2020823302403744233"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054147123042763041",
+        "created_at": "2026-05-12T10:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054147123042763041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1732356232290222080",
+              "start": 3,
+              "username": "8964_Y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ICMyUaRnCB",
+              "end": 59,
+              "expanded_url": "https://x.com/8964_Y/status/2020823302403744233/photo/1",
+              "media_key": "3_2020823295143378944",
+              "start": 36,
+              "url": "https://t.co/ICMyUaRnCB"
+            },
+            {
+              "display_url": "pic.x.com/ICMyUaRnCB",
+              "end": 59,
+              "expanded_url": "https://x.com/8964_Y/status/2020823302403744233/photo/1",
+              "media_key": "3_2020823295290155008",
+              "start": 36,
+              "url": "https://t.co/ICMyUaRnCB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054147123042763041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020823302403744233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964_Y: od狗眼中的自己     od狗希望遇见的恋人 https://t.co/ICMyUaRnCB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020823295143378944",
+            "3_2020823295290155008"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020823302403744233",
+        "created_at": "2026-02-09T11:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020823302403744233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ICMyUaRnCB",
+              "end": 47,
+              "expanded_url": "https://x.com/8964_Y/status/2020823302403744233/photo/1",
+              "media_key": "3_2020823295143378944",
+              "start": 24,
+              "url": "https://t.co/ICMyUaRnCB"
+            },
+            {
+              "display_url": "pic.x.com/ICMyUaRnCB",
+              "end": 47,
+              "expanded_url": "https://x.com/8964_Y/status/2020823302403744233/photo/1",
+              "media_key": "3_2020823295290155008",
+              "start": 24,
+              "url": "https://t.co/ICMyUaRnCB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020823302403744233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 72072,
+          "like_count": 1346,
+          "quote_count": 12,
+          "reply_count": 21,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "od狗眼中的自己     od狗希望遇见的恋人 https://t.co/ICMyUaRnCB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2040111125476573533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 457,
+          "like_count": 3002,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2535
+        },
+        "username": "thexiexx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6260,
+          "following_count": 736,
+          "like_count": 23168,
+          "listed_count": 19,
+          "media_count": 1105,
+          "tweet_count": 16200
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}
