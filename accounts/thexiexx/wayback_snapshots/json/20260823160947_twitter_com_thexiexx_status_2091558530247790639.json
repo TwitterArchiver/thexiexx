@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091479535120416768",
+        "3_2091479535145598976",
+        "3_2091479535124664320"
+      ],
+      "media_source_tweet_id": [
+        "2091479652783288781",
+        "2091479652783288781",
+        "2091479652783288781"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2091558530247790639",
+    "created_at": "2026-08-23T16:09:47.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091558530247790639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804187686229676037",
+          "start": 3,
+          "username": "oishi___na"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ezzyR6Uh2O",
+          "end": 55,
+          "expanded_url": "https://x.com/oishi___na/status/2091479652783288781/photo/1",
+          "media_key": "3_2091479535120416768",
+          "start": 32,
+          "url": "https://t.co/ezzyR6Uh2O"
+        },
+        {
+          "display_url": "pic.x.com/ezzyR6Uh2O",
+          "end": 55,
+          "expanded_url": "https://x.com/oishi___na/status/2091479652783288781/photo/1",
+          "media_key": "3_2091479535145598976",
+          "start": 32,
+          "url": "https://t.co/ezzyR6Uh2O"
+        },
+        {
+          "display_url": "pic.x.com/ezzyR6Uh2O",
+          "end": 55,
+          "expanded_url": "https://x.com/oishi___na/status/2091479652783288781/photo/1",
+          "media_key": "3_2091479535124664320",
+          "start": 32,
+          "url": "https://t.co/ezzyR6Uh2O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091558530247790639",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091479535120416768"
+      },
+      {
+        "media_key": "3_2091479535145598976"
+      },
+      {
+        "media_key": "3_2091479535124664320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091479652783288781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oishi___na: ご依頼ありがとうございました🎀 https://t.co/ezzyR6Uh2O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2091479535120416768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZtjlnaAAAnX_o.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2091479535145598976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZtjltaQAAGGgo.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2091479535124664320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZtjloa0AA2cQK.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091479535120416768",
+            "3_2091479535145598976",
+            "3_2091479535124664320"
+          ],
+          "media_source_tweet_id": [
+            "2091479652783288781",
+            "2091479652783288781",
+            "2091479652783288781"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2091558530247790639",
+        "created_at": "2026-08-23T16:09:47.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091558530247790639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804187686229676037",
+              "start": 3,
+              "username": "oishi___na"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezzyR6Uh2O",
+              "end": 55,
+              "expanded_url": "https://x.com/oishi___na/status/2091479652783288781/photo/1",
+              "media_key": "3_2091479535120416768",
+              "start": 32,
+              "url": "https://t.co/ezzyR6Uh2O"
+            },
+            {
+              "display_url": "pic.x.com/ezzyR6Uh2O",
+              "end": 55,
+              "expanded_url": "https://x.com/oishi___na/status/2091479652783288781/photo/1",
+              "media_key": "3_2091479535145598976",
+              "start": 32,
+              "url": "https://t.co/ezzyR6Uh2O"
+            },
+            {
+              "display_url": "pic.x.com/ezzyR6Uh2O",
+              "end": 55,
+              "expanded_url": "https://x.com/oishi___na/status/2091479652783288781/photo/1",
+              "media_key": "3_2091479535124664320",
+              "start": 32,
+              "url": "https://t.co/ezzyR6Uh2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091558530247790639",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091479535120416768"
+          },
+          {
+            "media_key": "3_2091479535145598976"
+          },
+          {
+            "media_key": "3_2091479535124664320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091479652783288781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oishi___na: ご依頼ありがとうございました🎀 https://t.co/ezzyR6Uh2O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091479535120416768",
+            "3_2091479535145598976",
+            "3_2091479535124664320"
+          ]
+        },
+        "author_id": "1804187686229676037",
+        "conversation_id": "2091479652783288781",
+        "created_at": "2026-08-23T10:56:21.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T11:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091479652783288781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezzyR6Uh2O",
+              "end": 39,
+              "expanded_url": "https://x.com/oishi___na/status/2091479652783288781/photo/1",
+              "media_key": "3_2091479535120416768",
+              "start": 16,
+              "url": "https://t.co/ezzyR6Uh2O"
+            },
+            {
+              "display_url": "pic.x.com/ezzyR6Uh2O",
+              "end": 39,
+              "expanded_url": "https://x.com/oishi___na/status/2091479652783288781/photo/1",
+              "media_key": "3_2091479535145598976",
+              "start": 16,
+              "url": "https://t.co/ezzyR6Uh2O"
+            },
+            {
+              "display_url": "pic.x.com/ezzyR6Uh2O",
+              "end": 39,
+              "expanded_url": "https://x.com/oishi___na/status/2091479652783288781/photo/1",
+              "media_key": "3_2091479535124664320",
+              "start": 16,
+              "url": "https://t.co/ezzyR6Uh2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091479652783288781",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091479535120416768"
+          },
+          {
+            "media_key": "3_2091479535145598976"
+          },
+          {
+            "media_key": "3_2091479535124664320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 435,
+          "impression_count": 41087,
+          "like_count": 2420,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "ご依頼ありがとうございました🎀 https://t.co/ezzyR6Uh2O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "这里没有你想看的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfJLqv"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "is_identity_verified": false,
+        "location": "67",
+        "most_recent_tweet_id": "2091558530247790639",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954524887454011392/1784506014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 382,
+          "like_count": 3518,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 3007
+        },
+        "url": "https://t.co/PSJUHfJLqv",
+        "username": "thexiexx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-21T16:20:46.000Z",
+        "description": "ご依頼について ⇢ https://t.co/5fk1QVjrGL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/rabbiiit",
+                "end": 33,
+                "expanded_url": "https://lit.link/rabbiiit",
+                "start": 10,
+                "url": "https://t.co/5fk1QVjrGL"
+              }
+            ]
+          }
+        },
+        "id": "1804187686229676037",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091556339487228029",
+        "name": "レバ刺し太郎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804187686229676037/1727416577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029687831883567105/oQIYOb6Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14751,
+          "following_count": 33,
+          "like_count": 579,
+          "listed_count": 82,
+          "media_count": 39,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "oishi___na",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

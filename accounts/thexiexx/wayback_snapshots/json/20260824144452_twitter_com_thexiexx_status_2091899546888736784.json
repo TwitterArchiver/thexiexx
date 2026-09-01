@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091899530283565056",
+        "3_2091899530296094720"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2091899546888736784",
+    "created_at": "2026-08-24T14:44:52.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T15:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091899546888736784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q9boWYGU66",
+          "end": 27,
+          "expanded_url": "https://x.com/thexiexx/status/2091899546888736784/photo/1",
+          "media_key": "3_2091899530283565056",
+          "start": 4,
+          "url": "https://t.co/q9boWYGU66"
+        },
+        {
+          "display_url": "pic.x.com/q9boWYGU66",
+          "end": 27,
+          "expanded_url": "https://x.com/thexiexx/status/2091899546888736784/photo/1",
+          "media_key": "3_2091899530296094720",
+          "start": 4,
+          "url": "https://t.co/q9boWYGU66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091899546888736784",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091899530283565056"
+      },
+      {
+        "media_key": "3_2091899530296094720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好神奇 https://t.co/q9boWYGU66"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_2091899530283565056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfrihhbwAAVA9a.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1355,
+        "media_key": "3_2091899530296094720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfrihka8AAEk0X.jpg",
+        "width": 1967
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091899530283565056",
+            "3_2091899530296094720"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2091899546888736784",
+        "created_at": "2026-08-24T14:44:52.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091899546888736784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9boWYGU66",
+              "end": 27,
+              "expanded_url": "https://x.com/thexiexx/status/2091899546888736784/photo/1",
+              "media_key": "3_2091899530283565056",
+              "start": 4,
+              "url": "https://t.co/q9boWYGU66"
+            },
+            {
+              "display_url": "pic.x.com/q9boWYGU66",
+              "end": 27,
+              "expanded_url": "https://x.com/thexiexx/status/2091899546888736784/photo/1",
+              "media_key": "3_2091899530296094720",
+              "start": 4,
+              "url": "https://t.co/q9boWYGU66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091899546888736784",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091899530283565056"
+          },
+          {
+            "media_key": "3_2091899530296094720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好神奇 https://t.co/q9boWYGU66"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "这里没有你想看的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfJLqv"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "is_identity_verified": false,
+        "location": "67",
+        "most_recent_tweet_id": "2091899546888736784",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954524887454011392/1784506014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 391,
+          "like_count": 3562,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 3035
+        },
+        "url": "https://t.co/PSJUHfJLqv",
+        "username": "thexiexx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091120742284800000",
+        "3_2091120802682843137",
+        "3_2091120845385060352",
+        "3_2091120929254318080"
+      ],
+      "media_source_tweet_id": [
+        "2091120970643698075",
+        "2091120970643698075",
+        "2091120970643698075",
+        "2091120970643698075"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226214258499584",
+          "name": "Sporting Kansas City"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756531309613057",
+          "name": "MLS"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226214258499584",
+          "name": "Sporting Kansas City"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756531309613057",
+          "name": "MLS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2091411698074997011",
+    "created_at": "2026-08-23T06:26:20.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T07:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091411698074997011"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "skc"
+        },
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "コスプレ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1810954784448684032",
+          "start": 3,
+          "username": "noroku_621"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CNiV3IGpxs",
+          "end": 66,
+          "expanded_url": "https://x.com/noroku_621/status/2091120970643698075/photo/1",
+          "media_key": "3_2091120742284800000",
+          "start": 43,
+          "url": "https://t.co/CNiV3IGpxs"
+        },
+        {
+          "display_url": "pic.x.com/CNiV3IGpxs",
+          "end": 66,
+          "expanded_url": "https://x.com/noroku_621/status/2091120970643698075/photo/1",
+          "media_key": "3_2091120802682843137",
+          "start": 43,
+          "url": "https://t.co/CNiV3IGpxs"
+        },
+        {
+          "display_url": "pic.x.com/CNiV3IGpxs",
+          "end": 66,
+          "expanded_url": "https://x.com/noroku_621/status/2091120970643698075/photo/1",
+          "media_key": "3_2091120845385060352",
+          "start": 43,
+          "url": "https://t.co/CNiV3IGpxs"
+        },
+        {
+          "display_url": "pic.x.com/CNiV3IGpxs",
+          "end": 66,
+          "expanded_url": "https://x.com/noroku_621/status/2091120970643698075/photo/1",
+          "media_key": "3_2091120929254318080",
+          "start": 43,
+          "url": "https://t.co/CNiV3IGpxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091411698074997011",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091120742284800000"
+      },
+      {
+        "media_key": "3_2091120802682843137"
+      },
+      {
+        "media_key": "3_2091120845385060352"
+      },
+      {
+        "media_key": "3_2091120929254318080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091120970643698075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noroku_621: あたしの死にたいひまわり…🌻🌻🌻#skc #コスプレ https://t.co/CNiV3IGpxs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2091120742284800000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUnPGJWMAAFQc8.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2091120802682843137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUnSnJXMAEms1V.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2091120845385060352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUnVGOXUAA5SFI.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2091120929254318080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUnZ-qWoAA3zds.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091120742284800000",
+            "3_2091120802682843137",
+            "3_2091120845385060352",
+            "3_2091120929254318080"
+          ],
+          "media_source_tweet_id": [
+            "2091120970643698075",
+            "2091120970643698075",
+            "2091120970643698075",
+            "2091120970643698075"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226214258499584",
+              "name": "Sporting Kansas City"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756531309613057",
+              "name": "MLS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226214258499584",
+              "name": "Sporting Kansas City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756531309613057",
+              "name": "MLS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2091411698074997011",
+        "created_at": "2026-08-23T06:26:20.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T07:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091411698074997011"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "skc"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "コスプレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1810954784448684032",
+              "start": 3,
+              "username": "noroku_621"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNiV3IGpxs",
+              "end": 66,
+              "expanded_url": "https://x.com/noroku_621/status/2091120970643698075/photo/1",
+              "media_key": "3_2091120742284800000",
+              "start": 43,
+              "url": "https://t.co/CNiV3IGpxs"
+            },
+            {
+              "display_url": "pic.x.com/CNiV3IGpxs",
+              "end": 66,
+              "expanded_url": "https://x.com/noroku_621/status/2091120970643698075/photo/1",
+              "media_key": "3_2091120802682843137",
+              "start": 43,
+              "url": "https://t.co/CNiV3IGpxs"
+            },
+            {
+              "display_url": "pic.x.com/CNiV3IGpxs",
+              "end": 66,
+              "expanded_url": "https://x.com/noroku_621/status/2091120970643698075/photo/1",
+              "media_key": "3_2091120845385060352",
+              "start": 43,
+              "url": "https://t.co/CNiV3IGpxs"
+            },
+            {
+              "display_url": "pic.x.com/CNiV3IGpxs",
+              "end": 66,
+              "expanded_url": "https://x.com/noroku_621/status/2091120970643698075/photo/1",
+              "media_key": "3_2091120929254318080",
+              "start": 43,
+              "url": "https://t.co/CNiV3IGpxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091411698074997011",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091120742284800000"
+          },
+          {
+            "media_key": "3_2091120802682843137"
+          },
+          {
+            "media_key": "3_2091120845385060352"
+          },
+          {
+            "media_key": "3_2091120929254318080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091120970643698075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noroku_621: あたしの死にたいひまわり…🌻🌻🌻#skc #コスプレ https://t.co/CNiV3IGpxs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091120742284800000",
+            "3_2091120802682843137",
+            "3_2091120845385060352",
+            "3_2091120929254318080"
+          ]
+        },
+        "author_id": "1810954784448684032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226214258499584",
+              "name": "Sporting Kansas City"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756531309613057",
+              "name": "MLS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2091120970643698075",
+        "created_at": "2026-08-22T11:11:05.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091120970643698075"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "skc"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "コスプレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNiV3IGpxs",
+              "end": 50,
+              "expanded_url": "https://x.com/noroku_621/status/2091120970643698075/photo/1",
+              "media_key": "3_2091120742284800000",
+              "start": 27,
+              "url": "https://t.co/CNiV3IGpxs"
+            },
+            {
+              "display_url": "pic.x.com/CNiV3IGpxs",
+              "end": 50,
+              "expanded_url": "https://x.com/noroku_621/status/2091120970643698075/photo/1",
+              "media_key": "3_2091120802682843137",
+              "start": 27,
+              "url": "https://t.co/CNiV3IGpxs"
+            },
+            {
+              "display_url": "pic.x.com/CNiV3IGpxs",
+              "end": 50,
+              "expanded_url": "https://x.com/noroku_621/status/2091120970643698075/photo/1",
+              "media_key": "3_2091120845385060352",
+              "start": 27,
+              "url": "https://t.co/CNiV3IGpxs"
+            },
+            {
+              "display_url": "pic.x.com/CNiV3IGpxs",
+              "end": 50,
+              "expanded_url": "https://x.com/noroku_621/status/2091120970643698075/photo/1",
+              "media_key": "3_2091120929254318080",
+              "start": 27,
+              "url": "https://t.co/CNiV3IGpxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091120970643698075",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091120742284800000"
+          },
+          {
+            "media_key": "3_2091120802682843137"
+          },
+          {
+            "media_key": "3_2091120845385060352"
+          },
+          {
+            "media_key": "3_2091120929254318080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 867,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "あたしの死にたいひまわり…🌻🌻🌻#skc #コスプレ https://t.co/CNiV3IGpxs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "这里没有你想看的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfJLqv"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "is_identity_verified": false,
+        "location": "67",
+        "most_recent_tweet_id": "2091411698074997011",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954524887454011392/1784506014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 381,
+          "like_count": 3498,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 2994
+        },
+        "url": "https://t.co/PSJUHfJLqv",
+        "username": "thexiexx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-10T08:31:03.000Z",
+        "description": "のろねです👁中国語 ◎日本語◎地雷なし 無言フォロー大歓迎☺️❤️\nagender\nアル中/ 自傷行為",
+        "id": "1810954784448684032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091206573062316215",
+        "name": "呪する。",
+        "pinned_tweet_id": "1961499269493301727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810954784448684032/1786290735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088862710112952320/SmCfi4Sf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 287,
+          "like_count": 1859,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "noroku_621",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

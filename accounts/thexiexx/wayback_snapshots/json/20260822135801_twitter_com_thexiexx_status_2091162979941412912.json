@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2091145922919239708",
+    "created_at": "2026-08-22T13:58:01.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T14:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091162979941412912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063228399586541568",
+          "start": 0,
+          "username": "_QianQian_8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091162979941412912",
+    "in_reply_to_user_id": "2063228399586541568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091145922919239708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_QianQian_8964_ 你说牛来（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2091145922919239708",
+        "created_at": "2026-08-22T13:58:01.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091162979941412912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063228399586541568",
+              "start": 0,
+              "username": "_QianQian_8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091162979941412912",
+        "in_reply_to_user_id": "2063228399586541568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091145922919239708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_QianQian_8964_ 你说牛来（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063228399586541568",
+        "conversation_id": "2091145922919239708",
+        "created_at": "2026-08-22T12:50:14.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091145922919239708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091145922919239708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實我很害怕那種會喊我媽媽的男生"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "这里没有你想看的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfJLqv"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "is_identity_verified": false,
+        "location": "记忆之后",
+        "most_recent_tweet_id": "2091162979941412912",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954524887454011392/1784506014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 383,
+          "like_count": 3484,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 2989
+        },
+        "url": "https://t.co/PSJUHfJLqv",
+        "username": "thexiexx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "7q468438x8964"
+              }
+            ]
+          }
+        },
+        "id": "2063228399586541568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091149327859421419",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2089426601880813891",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063228399586541568/1787364710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088817754745053184/CrWfdunH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 142,
+          "like_count": 2292,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1219
+        },
+        "url": "",
+        "username": "_QianQian_8964_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

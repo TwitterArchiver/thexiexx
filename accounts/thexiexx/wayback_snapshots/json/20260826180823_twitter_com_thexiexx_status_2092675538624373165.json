@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "conversation_id": "2092645820726436308",
+    "created_at": "2026-08-26T18:08:23.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092675538624373165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2021882125960777728",
+          "start": 0,
+          "username": "StopAnything11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092675538624373165",
+    "in_reply_to_user_id": "2021882125960777728",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092646262646702512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StopAnything11 ～～～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2092646262646702512].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2092646262646702512",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2092646262646702512"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2092645820726436308",
+        "created_at": "2026-08-26T18:08:23.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092675538624373165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2021882125960777728",
+              "start": 0,
+              "username": "StopAnything11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092675538624373165",
+        "in_reply_to_user_id": "2021882125960777728",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092646262646702512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StopAnything11 ～～～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "这里没有你想看的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfJLqv"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "is_identity_verified": false,
+        "location": "67",
+        "most_recent_tweet_id": "2092675538624373165",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954524887454011392/1784506014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 395,
+          "like_count": 3623,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 3075
+        },
+        "url": "https://t.co/PSJUHfJLqv",
+        "username": "thexiexx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-12T09:40:48.000Z",
+        "description": "三叉神经",
+        "id": "2021882125960777728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091880000752640051",
+        "name": "蠖",
+        "pinned_tweet_id": "2036841865446932725",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021882125960777728/1775901578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047672632586440704/Nr52OSN9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 288,
+          "like_count": 7178,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2937
+        },
+        "url": "",
+        "username": "StopAnything11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

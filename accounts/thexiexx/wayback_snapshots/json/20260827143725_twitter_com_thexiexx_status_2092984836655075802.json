@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092924564258902016"
+      ],
+      "media_source_tweet_id": [
+        "2092924633213272453"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2092984836655075802",
+    "created_at": "2026-08-27T14:37:25.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092984836655075802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1956460355174998016",
+          "start": 3,
+          "username": "Not_Fritz_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8zuswiG6vZ",
+          "end": 52,
+          "expanded_url": "https://x.com/Not_Fritz_/status/2092924633213272453/video/1",
+          "media_key": "13_2092924564258902016",
+          "start": 29,
+          "url": "https://t.co/8zuswiG6vZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092984836655075802",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2092924564258902016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092924633213272453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Not_Fritz_: Good morning https://t.co/8zuswiG6vZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37133,
+        "height": 718,
+        "media_key": "13_2092924564258902016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092924564258902016/img/A9SY9U7NCk5FeJOl.jpg",
+        "public_metrics": {
+          "view_count": 763
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092924564258902016/vid/avc1/478x270/gbUf9cCzh5jHq0ut.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092924564258902016/vid/avc1/638x360/HkdTVUTy8KNLMmFG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092924564258902016/vid/avc1/1276x718/tZY4fHiUEGKfkezk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092924564258902016/pl/_Lz5Vru7Rzh1FLtC.m3u8?v=4d6"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092924564258902016"
+          ],
+          "media_source_tweet_id": [
+            "2092924633213272453"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2092984836655075802",
+        "created_at": "2026-08-27T14:37:25.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092984836655075802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1956460355174998016",
+              "start": 3,
+              "username": "Not_Fritz_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8zuswiG6vZ",
+              "end": 52,
+              "expanded_url": "https://x.com/Not_Fritz_/status/2092924633213272453/video/1",
+              "media_key": "13_2092924564258902016",
+              "start": 29,
+              "url": "https://t.co/8zuswiG6vZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092984836655075802",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2092924564258902016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092924633213272453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Not_Fritz_: Good morning https://t.co/8zuswiG6vZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092924564258902016"
+          ]
+        },
+        "author_id": "1956460355174998016",
+        "conversation_id": "2092924633213272453",
+        "created_at": "2026-08-27T10:38:11.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092924633213272453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8zuswiG6vZ",
+              "end": 36,
+              "expanded_url": "https://x.com/Not_Fritz_/status/2092924633213272453/video/1",
+              "media_key": "13_2092924564258902016",
+              "start": 13,
+              "url": "https://t.co/8zuswiG6vZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092924633213272453",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2092924564258902016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1526,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "Good morning https://t.co/8zuswiG6vZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "这里没有你想看的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfJLqv"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "is_identity_verified": false,
+        "location": "67",
+        "most_recent_tweet_id": "2092984836655075802",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954524887454011392/1784506014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 396,
+          "like_count": 3644,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 3089
+        },
+        "url": "https://t.co/PSJUHfJLqv",
+        "username": "thexiexx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-15T20:58:04.000Z",
+        "description": "Hispanic (🇪🇸🇲🇽&🇺🇸) daily dose of Girls' Last Tour content, will occasionally post other things • priv: @Fritz_Personal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 103,
+                "username": "Fritz_Personal"
+              }
+            ]
+          }
+        },
+        "id": "1956460355174998016",
+        "is_identity_verified": false,
+        "location": "age: 18",
+        "most_recent_tweet_id": "2092964865455329618",
+        "name": "𝙵𝚛𝚒𝚝𝚣",
+        "pinned_tweet_id": "2080137486236348508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956460355174998016/1777243866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092405201382572032/VdvoInAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6270,
+          "following_count": 830,
+          "like_count": 27106,
+          "listed_count": 19,
+          "media_count": 2515,
+          "tweet_count": 7511
+        },
+        "url": "",
+        "username": "Not_Fritz_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

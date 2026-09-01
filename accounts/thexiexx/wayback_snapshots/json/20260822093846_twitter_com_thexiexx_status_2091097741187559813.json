@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091097733201645568"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2091097741187559813",
+    "created_at": "2026-08-22T09:38:46.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T10:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091097741187559813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ksOTj2Yoeh",
+          "end": 38,
+          "expanded_url": "https://x.com/thexiexx/status/2091097741187559813/photo/1",
+          "media_key": "3_2091097733201645568",
+          "start": 15,
+          "url": "https://t.co/ksOTj2Yoeh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091097741187559813",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091097733201645568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "傻逼啊占我放假时间考你妈的试 https://t.co/ksOTj2Yoeh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 883,
+        "media_key": "3_2091097733201645568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUSTyob0AAImBb.jpg",
+        "width": 1021
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091097733201645568"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2091097741187559813",
+        "created_at": "2026-08-22T09:38:46.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091097741187559813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksOTj2Yoeh",
+              "end": 38,
+              "expanded_url": "https://x.com/thexiexx/status/2091097741187559813/photo/1",
+              "media_key": "3_2091097733201645568",
+              "start": 15,
+              "url": "https://t.co/ksOTj2Yoeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091097741187559813",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091097733201645568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼啊占我放假时间考你妈的试 https://t.co/ksOTj2Yoeh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "这里没有你想看的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfJLqv"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "is_identity_verified": false,
+        "location": "记忆之后",
+        "most_recent_tweet_id": "2091097741187559813",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954524887454011392/1784506014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 382,
+          "like_count": 3476,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 2985
+        },
+        "url": "https://t.co/PSJUHfJLqv",
+        "username": "thexiexx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

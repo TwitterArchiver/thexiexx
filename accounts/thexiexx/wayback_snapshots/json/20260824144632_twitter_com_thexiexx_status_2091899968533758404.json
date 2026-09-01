@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954524887454011392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2091899968533758404",
+    "created_at": "2026-08-24T14:46:32.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T15:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091899968533758404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2065056446505709568",
+          "start": 3,
+          "username": "tsukichan0u0"
+        },
+        {
+          "end": 31,
+          "id": "899502186",
+          "start": 18,
+          "username": "0u0HaNako666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091899968533758404",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091538915454792170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsukichan0u0: @0u0HaNako666 \n音楽も美術も芸術だ\n音楽家としてAI作曲に反対するなら、AI作画に反対する絵描きの気持ちも理解しろよ\n理解できなくても尊重しろ\nそれに、たくさんのファンが一筆一筆同人を描いてきたんだ\nAI作画が嫌いな奴を挑発する…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2091899968533758404",
+        "created_at": "2026-08-24T14:46:32.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091899968533758404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2065056446505709568",
+              "start": 3,
+              "username": "tsukichan0u0"
+            },
+            {
+              "end": 31,
+              "id": "899502186",
+              "start": 18,
+              "username": "0u0HaNako666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091899968533758404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091538915454792170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsukichan0u0: @0u0HaNako666 \n音楽も美術も芸術だ\n音楽家としてAI作曲に反対するなら、AI作画に反対する絵描きの気持ちも理解しろよ\n理解できなくても尊重しろ\nそれに、たくさんのファンが一筆一筆同人を描いてきたんだ\nAI作画が嫌いな奴を挑発する…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065056446505709568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2091538915454792170",
+        "created_at": "2026-08-23T14:51:51.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091538915454792170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "899502186",
+              "start": 0,
+              "username": "0u0HaNako666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091538915454792170",
+        "in_reply_to_user_id": "899502186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 14920,
+          "like_count": 190,
+          "quote_count": 17,
+          "reply_count": 7,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "@0u0HaNako666 \n音楽も美術も芸術だ\n音楽家としてAI作曲に反対するなら、AI作画に反対する絵描きの気持ちも理解しろよ\n理解できなくても尊重しろ\nそれに、たくさんのファンが一筆一筆同人を描いてきたんだ\nAI作画が嫌いな奴を挑発するのは、自分勝手すぎないか\n見えないふりすんな"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "这里没有你想看的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfJLqv"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "is_identity_verified": false,
+        "location": "67",
+        "most_recent_tweet_id": "2091899968533758404",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954524887454011392/1784506014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 391,
+          "like_count": 3563,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 3036
+        },
+        "url": "https://t.co/PSJUHfJLqv",
+        "username": "thexiexx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T13:01:26.000Z",
+        "description": "僕は@TsukiSakura2004",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TsukiSakura2004"
+              }
+            ]
+          }
+        },
+        "id": "2065056446505709568",
+        "is_identity_verified": false,
+        "location": "月",
+        "most_recent_tweet_id": "2091896403505131835",
+        "name": "月",
+        "pinned_tweet_id": "2091538915454792170",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065056446505709568/1781183113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090126498032406528/k3FpKo2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 53,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "tsukichan0u0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-10-23T08:30:24.000Z",
+        "description": "神聖かまってちゃん\n「進撃の巨人」 OP / ED他アニメ・映画主題歌、大体担当\n自主制作Pv：https://t.co/TSG9iEnYCk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/vivaru",
+                "end": 71,
+                "expanded_url": "https://youtube.com/user/vivaru",
+                "start": 48,
+                "url": "https://t.co/TSG9iEnYCk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekonokonekono…",
+                "end": 23,
+                "expanded_url": "http://lit.link/nekonokonekonoko",
+                "start": 0,
+                "url": "https://t.co/dKaVW0fg08"
+              }
+            ]
+          }
+        },
+        "id": "899502186",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091869097248337934",
+        "name": "の子",
+        "pinned_tweet_id": "2091076390162674020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/899502186/1779634025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058561149671727104/2IM1lRK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182176,
+          "following_count": 236,
+          "like_count": 368885,
+          "listed_count": 1354,
+          "media_count": 2766,
+          "tweet_count": 55082
+        },
+        "url": "https://t.co/dKaVW0fg08",
+        "username": "0u0HaNako666",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

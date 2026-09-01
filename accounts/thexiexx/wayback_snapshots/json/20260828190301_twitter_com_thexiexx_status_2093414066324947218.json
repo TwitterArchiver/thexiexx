@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093414058108264448",
+        "3_2093414058091528192",
+        "3_2093414058095714304"
+      ]
+    },
+    "author_id": "1954524887454011392",
+    "conversation_id": "2093414066324947218",
+    "created_at": "2026-08-28T19:03:01.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T20:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093414066324947218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qyjqoOuJ9g",
+          "end": 39,
+          "expanded_url": "https://x.com/thexiexx/status/2093414066324947218/photo/1",
+          "media_key": "3_2093414058108264448",
+          "start": 16,
+          "url": "https://t.co/qyjqoOuJ9g"
+        },
+        {
+          "display_url": "pic.x.com/qyjqoOuJ9g",
+          "end": 39,
+          "expanded_url": "https://x.com/thexiexx/status/2093414066324947218/photo/1",
+          "media_key": "3_2093414058091528192",
+          "start": 16,
+          "url": "https://t.co/qyjqoOuJ9g"
+        },
+        {
+          "display_url": "pic.x.com/qyjqoOuJ9g",
+          "end": 39,
+          "expanded_url": "https://x.com/thexiexx/status/2093414066324947218/photo/1",
+          "media_key": "3_2093414058095714304",
+          "start": 16,
+          "url": "https://t.co/qyjqoOuJ9g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093414066324947218",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093414058108264448"
+      },
+      {
+        "media_key": "3_2093414058091528192"
+      },
+      {
+        "media_key": "3_2093414058095714304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？四月的sh帖也没了拜拜了推特 https://t.co/qyjqoOuJ9g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093414058108264448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ1M_pVaIAAUTXJ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093414058091528192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ1M_pRawAADWdb.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093414058095714304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ1M_pSaoAA61jU.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093414058108264448",
+            "3_2093414058091528192",
+            "3_2093414058095714304"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2093414066324947218",
+        "created_at": "2026-08-28T19:03:01.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T20:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093414066324947218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyjqoOuJ9g",
+              "end": 39,
+              "expanded_url": "https://x.com/thexiexx/status/2093414066324947218/photo/1",
+              "media_key": "3_2093414058108264448",
+              "start": 16,
+              "url": "https://t.co/qyjqoOuJ9g"
+            },
+            {
+              "display_url": "pic.x.com/qyjqoOuJ9g",
+              "end": 39,
+              "expanded_url": "https://x.com/thexiexx/status/2093414066324947218/photo/1",
+              "media_key": "3_2093414058091528192",
+              "start": 16,
+              "url": "https://t.co/qyjqoOuJ9g"
+            },
+            {
+              "display_url": "pic.x.com/qyjqoOuJ9g",
+              "end": 39,
+              "expanded_url": "https://x.com/thexiexx/status/2093414066324947218/photo/1",
+              "media_key": "3_2093414058095714304",
+              "start": 16,
+              "url": "https://t.co/qyjqoOuJ9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093414066324947218",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093414058108264448"
+          },
+          {
+            "media_key": "3_2093414058091528192"
+          },
+          {
+            "media_key": "3_2093414058095714304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？四月的sh帖也没了拜拜了推特 https://t.co/qyjqoOuJ9g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "这里没有你想看的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfJLqv"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "is_identity_verified": false,
+        "location": "67",
+        "most_recent_tweet_id": "2093414066324947218",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954524887454011392/1784506014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 398,
+          "like_count": 3666,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 3103
+        },
+        "url": "https://t.co/PSJUHfJLqv",
+        "username": "thexiexx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
